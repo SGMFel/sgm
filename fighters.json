@@ -1,0 +1,4232 @@
+{
+  "beatbox":{
+    "name": "Beat Box",
+    "rarity": "bronze",
+    "element": "fire",
+    "character": "<:sp_bb:684054646528147500> Big Band",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/bb/bBox.png",
+    "ability": "FREESTYLE",
+    "SA1": "Gain ENRAGE for 3/4/5 seconds when using a SPECIAL MOVE.",
+    "SA2": "Gain 15/20/25% BLOCKBUSTER METER when using a SPECIAL MOVE.",
+    "bronze":{
+      "min_atk": "73",
+      "max_atk": "745",
+      "min_hp": "495",
+      "max_hp": "5049",
+      "min_fs": "109",
+      "max_fs": "1744"
+    },
+    "silver":{
+      "min_atk": "131",
+      "max_atk": "1730",
+      "min_hp": "891",
+      "max_hp": "11762",
+      "min_fs": "196",
+      "max_fs": "4056"
+    },
+    "gold":{
+      "min_atk": "237",
+      "max_atk": "3840",
+      "min_hp": "1604",
+      "max_hp": "25985",
+      "min_fs": "354",
+      "max_fs": "8980"
+    },
+    "diamond":{
+      "min_atk": "426",
+      "max_atk": "8180",
+      "min_hp": "2887",
+      "max_hp": "55431",
+      "min_fs": "636",
+      "max_fs": "19143"
+    }
+  },
+  "bassline":{
+    "name": "Bassline",
+    "rarity": "bronze",
+    "element": "air",
+    "character": "<:sp_bb:684054646528147500> Big Band",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/bb/bLine.png",
+    "ability": "SECOND WIND",
+    "SA1": "On TAG IN, gain HEAVY REGEN and ARMOR for 5/7/10 seconds.",
+    "SA2": "On TAG IN, gain 20/25/35% SUPER METER.",
+    "bronze":{
+      "min_atk": "58",
+      "max_atk": "592",
+      "min_hp": "500",
+      "max_hp": "5100",
+      "min_fs": "99",
+      "max_fs": "1585"
+    },
+    "silver":{
+      "min_atk": "104",
+      "max_atk": "1373",
+      "min_hp": "900",
+      "max_hp": "11880",
+      "min_fs": "178",
+      "max_fs": "3685"
+    },
+    "gold":{
+      "min_atk": "188",
+      "max_atk": "3046",
+      "min_hp": "1620",
+      "max_hp": "26244",
+      "min_fs": "321",
+      "max_fs": "8155"
+    },
+    "diamond":{
+      "min_atk": "338",
+      "max_atk": "6490",
+      "min_hp": "2916",
+      "max_hp": "55988",
+      "min_fs": "577",
+      "max_fs": "17388"
+    }
+  },
+  "resonantevil":{
+    "name": "Resonant Evil",
+    "rarity": "silver",
+    "element": "dark",
+    "character": "<:sp_bb:684054646528147500> Big Band",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/bb/rEvil.png",
+    "ability": "MASTER OF UNBLOCKING",
+    "SA1": "Getting HIT has a 10% chance to grant ARMOR for 5/7/10 seconds.",
+    "SA2": "Gain a 5% chance on HIT to STUN opponent for 3/4/5 seconds if you have ARMOR",
+    "silver":{
+      "min_atk": "104",
+      "max_atk": "1373",
+      "min_hp": "1155",
+      "max_hp": "15246",
+      "min_fs": "208",
+      "max_fs": "4302"
+    },
+    "gold":{
+      "min_atk": "187",
+      "max_atk": "3030",
+      "min_hp": "2079",
+      "max_hp": "33680",
+      "min_fs": "374",
+      "max_fs": "9500"
+    },
+    "diamond":{
+      "min_atk": "337",
+      "max_atk": "6471",
+      "min_hp": "3742",
+      "max_hp": "71847",
+      "min_fs": "673",
+      "max_fs": "20272"
+    }
+  },
+  "robocopy":{
+    "name": "Robocopy",
+    "rarity": "silver",
+    "element": "water",
+    "character": "<:sp_bb:684054646528147500> Big Band",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/bb/rCopy.png",
+    "ability": "DEAD OR ALIVE",
+    "SA1": "Defeating an opponent grants 2 stacks of ARMOR and ENRAGE for 5/7/10 seconds.",
+    "SA2": "Also gain 25/35/50% for all BLOCKBUSTERS.",
+    "silver":{
+      "min_atk": "140",
+      "max_atk": "1848",
+      "min_hp": "945",
+      "max_hp": "12474",
+      "min_fs": "209",
+      "max_fs": "4316"
+    },
+    "gold":{
+      "min_atk": "252",
+      "max_atk": "4083",
+      "min_hp": "1701",
+      "max_hp": "27557",
+      "min_fs": "375",
+      "max_fs": "9535"
+    },
+    "diamond":{
+      "min_atk": "454",
+      "max_atk": "8717",
+      "min_hp": "3062",
+      "max_hp": "58791",
+      "min_fs": "676",
+      "max_fs": "20349"
+    }
+  },
+  "treblemaker":{
+    "name": "Treble Maker",
+    "rarity": "silver",
+    "element": "light",
+    "character": "<:sp_bb:684054646528147500> Big Band",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/bb/tMake.png",
+    "ability": "CHIME AND PUNISHMENT",
+    "SA1": "Heal for 5/7/10% of your MAX HEALTH after every 10th COMBO HIT suffered.",
+    "SA2": "BLOCKBUSTER damage is increased by 1/2/3% of your current HEALTH.",
+    "silver":{
+      "min_atk": "122",
+      "max_atk": "1611",
+      "min_hp": "1050",
+      "max_hp": "13860",
+      "min_fs": "208",
+      "max_fs": "4310"
+    },
+    "gold":{
+      "min_atk": "220",
+      "max_atk": "3564",
+      "min_hp": "1890",
+      "max_hp": "30618",
+      "min_fs": "375",
+      "max_fs": "9526"
+    },
+    "diamond":{
+      "min_atk": "395",
+      "max_atk": "7584",
+      "min_hp": "3402",
+      "max_hp": "65319",
+      "min_fs": "674",
+      "max_fs": "20300"
+    }
+  },
+  "epicsax":{
+    "name": "Epic Sax",
+    "rarity": "gold",
+    "element": "light",
+    "character": "<:sp_bb:684054646528147500> Big Band",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/bb/eSax.png",
+    "ability": "CIRCULAR BREATHING",
+    "SA1": "Gain 1/2/3% damage bonus per COMBO HIT, up to 50%.",
+    "SA2": "Gain a random BUFF for every 20/15/10 COMBO HITS.",
+    "gold":{
+      "min_atk": "294",
+      "max_atk": "4763",
+      "min_hp": "1985",
+      "max_hp": "32157",
+      "min_fs": "438",
+      "max_fs": "11125"
+    },
+    "diamond":{
+      "min_atk": "529",
+      "max_atk": "10157",
+      "min_hp": "3573",
+      "max_hp": "68602",
+      "min_fs": "788",
+      "max_fs": "23729"
+    }
+  },
+  "gijazz":{
+    "name": "G.I. Jazz",
+    "rarity": "gold",
+    "element": "air",
+    "character": "<:sp_bb:684054646528147500> Big Band",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/bb/gJazz.png",
+    "ability": "RESERVE TANK",
+    "SA1": "Once per match, gain 3/4/5 stacks of REGEN for 10 seconds when falling below 25% HEALTH.",
+    "SA2": "Also gain 1/2/3 stack(s) of ARMOR.",
+    "gold":{
+      "min_atk": "218",
+      "max_atk": "3532",
+      "min_hp": "2426",
+      "max_hp": "39302",
+      "min_fs": "436",
+      "max_fs": "11081"
+    },
+    "diamond":{
+      "min_atk": "392",
+      "max_atk": "7527",
+      "min_hp": "4367",
+      "max_hp": "83847",
+      "min_fs": "784",
+      "max_fs": "23631"
+    }
+  },
+  "megasonic":{
+    "name": "Megasonic",
+    "rarity": "gold",
+    "element": "dark",
+    "character": "<:sp_bb:684054646528147500> Big Band",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/bb/mSonic.png",
+    "ability": "CHIP-TUNED",
+    "SA1": "When blocking a HIT, reduce damage taken by 25/50/75% and gain ENRAGE for 5 seconds. One ENRAGE stack is removed on the next successful HIT.",
+    "SA2": "While benefitting from ENRAGE, 25/50/75% of the damage dealt is regained as HEALTH.",
+    "gold":{
+      "min_atk": "294",
+      "max_atk": "4763",
+      "min_hp": "1985",
+      "max_hp": "32157",
+      "min_fs": "438",
+      "max_fs": "11125"
+    },
+    "diamond":{
+      "min_atk": "529",
+      "max_atk": "10157",
+      "min_hp": "3573",
+      "max_hp": "68602",
+      "min_fs": "788",
+      "max_fs": "23729"
+    }
+  },
+  "privatedick":{
+    "name": "Private Dick",
+    "rarity": "gold",
+    "element": "fire",
+    "character": "<:sp_bb:684054646528147500> Big Band",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/bb/pDick.png",
+    "ability": "STUNNING PERFORMANCE",
+    "SA1": "5% chance on HIT to STUN opponent for 2/2.5/3 seconds.",
+    "SA2": "Gain a 25/35/50% RESISTANCE to all DEBUFFS.",
+    "gold":{
+      "min_atk": "256",
+      "max_atk": "4148",
+      "min_hp": "2205",
+      "max_hp": "35721",
+      "min_fs": "437",
+      "max_fs": "11102"
+    },
+    "diamond":{
+      "min_atk": "461",
+      "max_atk": "8852",
+      "min_hp": "3969",
+      "max_hp": "76205",
+      "min_fs": "786",
+      "max_fs": "23687"
+    }
+  },
+  "dreamband":{
+    "name": "Dream Band",
+    "rarity": "diamond",
+    "element": "light",
+    "character": "<:sp_bb:684054646528147500> Big Band",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/bb/dBand.png",
+    "ability": "SUCK IT UP!",
+    "SA1": "MIRROR 1 opponent BUFF and reset its timer every 20/15/10 combo hits.",
+    "SA2": "When KNOCKED DOWN reset the timer of all active BUFFS and gain IMMUNITY for 10/12/15 seconds.",
+    "diamond":{
+      "min_atk": "457",
+      "max_atk": "8775",
+      "min_hp": "5094",
+      "max_hp": "97805",
+      "min_fs": "915",
+      "max_fs": "27599"
+    }
+  },
+  "heavymetal":{
+    "name": "Heavy Metal",
+    "rarity": "diamond",
+    "element": "water",
+    "character": "<:sp_bb:684054646528147500> Big Band",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/bb/hMetal.png",
+    "ability": "GOING PLATINUM",
+    "SA1": "10/12/15% chance to gain ARMOR for 5 seconds when HIT with a close-range attack (includes Blocking).",
+    "SA2": "While benefitting from ARMOR, BLOCKBUSTERS deal 50/75/100% bonus damage.",
+    "diamond":{
+      "min_atk": "538",
+      "max_atk": "10330",
+      "min_hp": "4631",
+      "max_hp": "88916",
+      "min_fs": "917",
+      "max_fs": "27640"
+    }
+  },
+  "coldstones":{
+    "name": "Cold Stones",
+    "rarity": "bronze",
+    "element": "water",
+    "character": "<:sp_beo:684771548414083107> Beowulf",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/be/cStones.png",
+    "ability": "OUT COLD",
+    "SA1": "Throws have a 10/15/20% chance to inflict STUN on the enemy for 6 seconds.",
+    "SA2": "Inflict 25/35/50% bonus damage against an enemy that has STUN.",
+    "bronze":{
+      "min_atk": "94",
+      "max_atk": "959",
+      "min_hp": "396",
+      "max_hp": "4040",
+      "min_fs": "112",
+      "max_fs": "1794"
+    },
+    "silver":{
+      "min_atk": "169",
+      "max_atk": "2231",
+      "min_hp": "713",
+      "max_hp": "9412",
+      "min_fs": "202",
+      "max_fs": "4176"
+    },
+    "gold":{
+      "min_atk": "305",
+      "max_atk": "4941",
+      "min_hp": "1283",
+      "max_hp": "20785",
+      "min_fs": "364",
+      "max_fs": "9238"
+    },
+    "diamond":{
+      "min_atk": "548",
+      "max_atk": "10522",
+      "min_hp": "2309",
+      "max_hp": "44333",
+      "min_fs": "653",
+      "max_fs": "19685"
+    }
+  },
+  "underdog":{
+    "name": "Underdog",
+    "rarity": "bronze",
+    "element": "dark",
+    "character": "<:sp_beo:684771548414083107> Beowulf",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/be/uDog.png",
+    "ability": "ON THE ROPES",
+    "SA1": "Gain ARMOR for 10/12/15 seconds when inflicted with a DEBUFF",
+    "SA2": "Gain HASTE for 10/12/15 seconds when inflicted with a DEBUFF",
+    "bronze":{
+      "min_atk": "74",
+      "max_atk": "755",
+      "min_hp": "400",
+      "max_hp": "4080",
+      "min_fs": "99",
+      "max_fs": "1578"
+    },
+    "silver":{
+      "min_atk": "133",
+      "max_atk": "1756",
+      "min_hp": "720",
+      "max_hp": "9504",
+      "min_fs": "178",
+      "max_fs": "3671"
+    },
+    "gold":{
+      "min_atk": "240",
+      "max_atk": "3888",
+      "min_hp": "1296",
+      "max_hp": "20996",
+      "min_fs": "320",
+      "max_fs": "8119"
+    },
+    "diamond":{
+      "min_atk": "432",
+      "max_atk": "8295",
+      "min_hp": "2333",
+      "max_hp": "44794",
+      "min_fs": "575",
+      "max_fs": "17321"
+    }
+  },
+  "hypeman":{
+    "name": "Hype Man",
+    "rarity": "silver",
+    "element": "air",
+    "character": "<:sp_beo:684771548414083107> Beowulf",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/be/hMan.png",
+    "ability": "HYPE TRAIN",
+    "SA1": "While in HYPE MODE, DRAIN the meter of all opponent BLOCKBUSTERS by 5/7/10% per landed HIT.",
+    "SA2": "When activating HYPE MODE, teammates in reserve gain 25/35/50% METER for all BLOCKBUSTERS.",
+    "silver":{
+      "min_atk": "155",
+      "max_atk": "2046",
+      "min_hp": "840",
+      "max_hp": "11088",
+      "min_fs": "207",
+      "max_fs": "4280"
+    },
+    "gold":{
+      "min_atk": "279",
+      "max_atk": "4520",
+      "min_hp": "1512",
+      "max_hp": "24495",
+      "min_fs": "372",
+      "max_fs": "9455"
+    },
+    "diamond":{
+      "min_atk": "502",
+      "max_atk": "9639",
+      "min_hp": "2722",
+      "max_hp": "52263",
+      "min_fs": "669",
+      "max_fs": "20167"
+    }
+  },
+  "numberone":{
+    "name": "Number One",
+    "rarity": "silver",
+    "element": "fire",
+    "character": "<:sp_beo:684771548414083107> Beowulf",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/be/nOne.png",
+    "ability": "RED ALERT",
+    "SA1": "Gain HASTE for 5/7/10 seconds on opponent TAG IN.",
+    "SA2": "25% chance on HIT to gain ENRAGE for 5/7/10 seconds if HASTED.",
+    "silver":{
+      "min_atk": "132",
+      "max_atk": "1743",
+      "min_hp": "924",
+      "max_hp": "12197",
+      "min_fs": "201",
+      "max_fs": "4150"
+    },
+    "gold":{
+      "min_atk": "238",
+      "max_atk": "3856",
+      "min_hp": "1663",
+      "max_hp": "26941",
+      "min_fs": "361",
+      "max_fs": "9173"
+    },
+    "diamond":{
+      "min_atk": "428",
+      "max_atk": "8218",
+      "min_hp": "2994",
+      "max_hp": "57485",
+      "min_fs": "649",
+      "max_fs": "19561"
+    }
+  },
+  "wrestlerx":{
+    "name": "Wrestler X",
+    "rarity": "silver",
+    "element": "light",
+    "character": "<:sp_beo:684771548414083107> Beowulf",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/be/wresX.png",
+    "ability": "X-FACTOR",
+    "SA1": "Gain REGEN for 5/7/10 seconds for every 10% HEALTH lost.",
+    "SA2": "While in HYPE MODE, all HITS have a 15/20/25% chance to inflict BLEED for 5 seconds.",
+    "silver":{
+      "min_atk": "178",
+      "max_atk": "2350",
+      "min_hp": "756",
+      "max_hp": "9980",
+      "min_fs": "213",
+      "max_fs": "4411"
+    },
+    "gold":{
+      "min_atk": "320",
+      "max_atk": "5184",
+      "min_hp": "1361",
+      "max_hp": "22049",
+      "min_fs": "383",
+      "max_fs": "9736"
+    },
+    "diamond":{
+      "min_atk": "577",
+      "max_atk": "11079",
+      "min_hp": "2449",
+      "max_hp": "47021",
+      "min_fs": "690",
+      "max_fs": "20789"
+    }
+  },
+  "dragonbrawler":{
+    "name": "Dragon Brawler",
+    "rarity": "gold",
+    "element": "fire",
+    "character": "<:sp_beo:684771548414083107> Beowulf",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/be/dBrawl.png",
+    "ability": "WULF FANG FIST",
+    "SA1": "Gain 3/4/5 stacks of PRECISION when activating HYPE, and gain 100% increased CRIT DAMAGE while in HYPE MODE.",
+    "SA2": "Gain 25/35/50% meter for all BLOCKBUSTERS when defeating an opponent with a BLOCKBUSTER.",
+    "gold":{
+      "min_atk": "326",
+      "max_atk": "5282",
+      "min_hp": "1764",
+      "max_hp": "28577",
+      "min_fs": "434",
+      "max_fs": "11040"
+    },
+    "diamond":{
+      "min_atk": "587",
+      "max_atk": "11271",
+      "min_hp": "3175",
+      "max_hp": "60960",
+      "min_fs": "782",
+      "max_fs": "23553"
+    }
+  },
+  "freedomfighter":{
+    "name": "Freedom Fighter",
+    "rarity": "gold",
+    "element": "water",
+    "character": "<:sp_beo:684771548414083107> Beowulf",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/be/fFight.png",
+    "ability": "CAP'S LOCK",
+    "SA1": "While below 50% Health, inflict CRIPPLE and ARMOR BREAK for 5/7/10 seconds each when BLOCKING any normal HIT.",
+    "SA2": "When BLOCKING a BLOCKBUSTER attack, DISABLE opponent BLOCKBUSTERS for 10/12/15 seconds and inflict STUN for 4 seconds.",
+    "gold":{
+      "min_atk": "277",
+      "max_atk": "4488",
+      "min_hp": "1940",
+      "max_hp": "31428",
+      "min_fs": "421",
+      "max_fs": "10689"
+    },
+    "diamond":{
+      "min_atk": "499",
+      "max_atk": "9581",
+      "min_hp": "3492",
+      "max_hp": "67047",
+      "min_fs": "757",
+      "max_fs": "22811"
+    }
+  },
+  "weekendwarrior":{
+    "name": "Weekend Warrior",
+    "rarity": "gold",
+    "element": "light",
+    "character": "<:sp_beo:684771548414083107> Beowulf",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/be/wWarr.png",
+    "ability": "LAST CALL",
+    "SA1": "Achieve max HYPE and gain HASTE for 10 seconds when Beowulf first drops below 25/35/50% HEALTH.",
+    "SA2": "When activating HYPE MODE, remove all DEBUFFS and gain IMMUNITY, FINAL STAND, and HEAVY REGEN for 10/12/15 seconds.",
+    "gold":{
+      "min_atk": "277",
+      "max_atk": "4488",
+      "min_hp": "1940",
+      "max_hp": "31428",
+      "min_fs": "421",
+      "max_fs": "10689"
+    },
+    "diamond":{
+      "min_atk": "499",
+      "max_atk": "9581",
+      "min_hp": "3492",
+      "max_hp": "67047",
+      "min_fs": "757",
+      "max_fs": "22811"
+    }
+  },
+  "wulfsbane":{
+    "name": "Wulfsbane",
+    "rarity": "gold",
+    "element": "dark",
+    "character": "<:sp_beo:684771548414083107> Beowulf",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/be/wBane.png",
+    "ability": "FORCE CHOKE",
+    "SA1": "THROWS have a 50% chance to inflict CRIPPLE and HEAL BLOCK for 5/7/10 seconds.",
+    "SA2": "Inflict 25/35/50% bonus damage against an enemy that is suffering from a DEBUFF.",
+    "gold":{
+      "min_atk": "375",
+      "max_atk": "6075",
+      "min_hp": "1588",
+      "max_hp": "25726",
+      "min_fs": "448",
+      "max_fs": "11389"
+    },
+    "diamond":{
+      "min_atk": "675",
+      "max_atk": "12960",
+      "min_hp": "2858",
+      "max_hp": "54874",
+      "min_fs": "806",
+      "max_fs": "24295"
+    }
+  },
+  "darkmight":{
+    "name": "Dark Might",
+    "rarity": "diamond",
+    "element": "dark",
+    "character": "<:sp_beo:684771548414083107> Beowulf",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/be/dMight.png",
+    "ability": "GRAVE INJUSTICE",
+    "SA1": "Damage is increased by 25/35/50% for each teammate defeated.",
+    "SA2": "LEVEL 3 BLOCKBUSTERS have a 15/25/35% chance to instantly defeat enemies if Beowulf has less than 50% HEALTH.",
+    "diamond":{
+      "min_atk": "685",
+      "max_atk": "13142",
+      "min_hp": "3704",
+      "max_hp": "71117",
+      "min_fs": "912",
+      "max_fs": "27481"
+    }
+  },
+  "snakebite":{
+    "name": "Snake Bite",
+    "rarity": "diamond",
+    "element": "air",
+    "character": "<:sp_beo:684771548414083107> Beowulf",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/be/sBite.png",
+    "ability": "STEALTH TAKEDOWN",
+    "SA1": "Gain 1/2/3 stacks of EVASION and 25% BLOCKBUSTER METER when activating HYPE MODE.",
+    "SA2": "Gain permanent HASTE and 3/4/5 stacks of BARRIER when defeating an opponent while in HYPE MODE.",
+    "diamond":{
+      "min_atk": "788",
+      "max_atk": "15130",
+      "min_hp": "3335",
+      "max_hp": "64032",
+      "min_fs": "941",
+      "max_fs": "28357"
+    }
+  },
+  "headstrong":{
+    "name": "Headstrong",
+    "rarity": "bronze",
+    "element": "light",
+    "character": "<:sp_cb:685401170495537152> Cerebella",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/ce/hStrong.png",
+    "ability": "BIG BREAK",
+    "SA1": "THROWS have a 50% chance to inflict CRIPPLE for 4/5/7 seconds.",
+    "SA2": "Also inflict ARMOR BREAK for 4/5/7 seconds.",
+    "bronze":{
+      "min_atk": "94",
+      "max_atk": "959",
+      "min_hp": "446",
+      "max_hp": "4550",
+      "min_fs": "118",
+      "max_fs": "1888"
+    },
+    "silver":{
+      "min_atk": "169",
+      "max_atk": "2231",
+      "min_hp": "803",
+      "max_hp": "10600",
+      "min_fs": "212",
+      "max_fs": "4394"
+    },
+    "gold":{
+      "min_atk": "305",
+      "max_atk": "4941",
+      "min_hp": "1445",
+      "max_hp": "23409",
+      "min_fs": "383",
+      "max_fs": "9718"
+    },
+    "diamond":{
+      "min_atk": "432",
+      "max_atk": "8295",
+      "min_hp": "2624",
+      "max_hp": "50381",
+      "min_fs": "609",
+      "max_fs": "18345"
+    }
+  },
+  "understudy":{
+    "name": "Understudy",
+    "rarity": "bronze",
+    "element": "water",
+    "character": "<:sp_cb:685401170495537152> Cerebella",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/ce/uStudy.png",
+    "ability": "THROW DOWN",
+    "SA1": "Gain a 15/30/50% bonus to THROW damage.",
+    "SA2": "Gain ARMOR for 10/12/15 seconds when THROWING an opponent.",
+    "bronze":{
+      "min_atk": "74",
+      "max_atk": "755",
+      "min_hp": "450",
+      "max_hp": "4590",
+      "min_fs": "105",
+      "max_fs": "1671"
+    },
+    "silver":{
+      "min_atk": "133",
+      "max_atk": "1756",
+      "min_hp": "810",
+      "max_hp": "10692",
+      "min_fs": "188",
+      "max_fs": "3889"
+    },
+    "gold":{
+      "min_atk": "240",
+      "max_atk": "3888",
+      "min_hp": "1458",
+      "max_hp": "23620",
+      "min_fs": "339",
+      "max_fs": "8600"
+    },
+    "diamond":{
+      "min_atk": "548",
+      "max_atk": "10522",
+      "min_hp": "2601",
+      "max_hp": "49940",
+      "min_fs": "688",
+      "max_fs": "20712"
+    }
+  },
+  "bigtop":{
+    "name": "Big Top",
+    "rarity": "silver",
+    "element": "light",
+    "character": "<:sp_cb:685401170495537152> Cerebella",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/ce/bTop.png",
+    "ability": "ENCORE",
+    "SA1": "Once per match, RESURRECT with 10/25/50% HEALTH when defeated.",
+    "SA2": "RESURRECT with INVINCIBILITY and UNFLINCHING for 4/5/6 seconds.",
+    "silver":{
+      "min_atk": "132",
+      "max_atk": "1743",
+      "min_hp": "1040",
+      "max_hp": "13728",
+      "min_fs": "214",
+      "max_fs": "4431"
+    },
+    "gold":{
+      "min_atk": "238",
+      "max_atk": "3856",
+      "min_hp": "1872",
+      "max_hp": "30327",
+      "min_fs": "385",
+      "max_fs": "9793"
+    },
+    "diamond":{
+      "min_atk": "428",
+      "max_atk": "8218",
+      "min_hp": "3370",
+      "max_hp": "64704",
+      "min_fs": "693",
+      "max_fs": "20884"
+    }
+  },
+  "graymatter":{
+    "name": "Gray Matter",
+    "rarity": "silver",
+    "element": "dark",
+    "character": "<:sp_cb:685401170495537152> Cerebella",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/ce/gMatt.png",
+    "ability": "HAT TRICK",
+    "SA1": "Start every match with 25/35/50% BLOCKBUSTER METER.",
+    "SA2": "Teammates start every match with 15/20/25% SUPER METER.",
+    "silver":{
+      "min_atk": "155",
+      "max_atk": "2046",
+      "min_hp": "945",
+      "max_hp": "12474",
+      "min_fs": "219",
+      "max_fs": "4534"
+    },
+    "gold":{
+      "min_atk": "279",
+      "max_atk": "4520",
+      "min_hp": "1701",
+      "max_hp": "27557",
+      "min_fs": "394",
+      "max_fs": "10016"
+    },
+    "diamond":{
+      "min_atk": "502",
+      "max_atk": "9639",
+      "min_hp": "3062",
+      "max_hp": "58791",
+      "min_fs": "709",
+      "max_fs": "21362"
+    }
+  },
+  "toadwarrior":{
+    "name": "Toad Warrior",
+    "rarity": "silver",
+    "element": "air",
+    "character": "<:sp_cb:685401170495537152> Cerebella",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/ce/toad.png",
+    "ability": "TURBO TUNNEL",
+    "SA1": "Gain 1/2/3% BLOCKBUSTER METER per second while near an opponent.",
+    "SA2": "Inflict 25/35/50% bonus damage while a BLOCKBUSTER is fully charged.",
+    "silver":{
+      "min_atk": "178",
+      "max_atk": "2350",
+      "min_hp": "851",
+      "max_hp": "11234",
+      "min_fs": "224",
+      "max_fs": "4641"
+    },
+    "gold":{
+      "min_atk": "320",
+      "max_atk": "5184",
+      "min_hp": "1532",
+      "max_hp": "24819",
+      "min_fs": "403",
+      "max_fs": "10244"
+    },
+    "diamond":{
+      "min_atk": "577",
+      "max_atk": "11079",
+      "min_hp": "2757",
+      "max_hp": "52935",
+      "min_fs": "726",
+      "max_fs": "21872"
+    }
+  },
+  "armedforces":{
+    "name": "Armed Forces",
+    "rarity": "gold",
+    "element": "air",
+    "character": "<:sp_cb:685401170495537152> Cerebella",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/ce/aForce.png",
+    "ability": "DIAMOND DEFENSE",
+    "SA1": "Getting HIT has a 5% chance to grant ARMOR for 5/7/10 seconds.",
+    "SA2": "Also gain UNFLINCHING for 5/7/10 seconds.",
+    "gold":{
+      "min_atk": "277",
+      "max_atk": "4488",
+      "min_hp": "2184",
+      "max_hp": "35381",
+      "min_fs": "449",
+      "max_fs": "11413"
+    },
+    "diamond":{
+      "min_atk": "499",
+      "max_atk": "9581",
+      "min_hp": "3931",
+      "max_hp": "75476",
+      "min_fs": "808",
+      "max_fs": "24355"
+    }
+  },
+  "brainfreeze":{
+    "name": "Brain Freeze",
+    "rarity": "gold",
+    "element": "water",
+    "character": "<:sp_cb:685401170495537152> Cerebella",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/ce/bFreeze.png",
+    "ability": "FROZEN OVER",
+    "SA1": "ATTACK damage is increased by 1/2/3% of your CURRENT HEALTH.",
+    "SA2": "Damage inflicted by the opponent is reduced by 1/2/3% per opponent COMBO HIT.",
+    "gold":{
+      "min_atk": "326",
+      "max_atk": "5282",
+      "min_hp": "1985",
+      "max_hp": "32157",
+      "min_fs": "460",
+      "max_fs": "11696"
+    },
+    "diamond":{
+      "min_atk": "587",
+      "max_atk": "11271",
+      "min_hp": "3573",
+      "max_hp": "68602",
+      "min_fs": "828",
+      "max_fs": "24953"
+    }
+  },
+  "criminalmind":{
+    "name": "Criminal Mind",
+    "rarity": "gold",
+    "element": "dark",
+    "character": "<:sp_cb:685401170495537152> Cerebella",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/ce/cMind.png",
+    "ability": "BRIAR STRAITS",
+    "SA1": "Inflict DEATH MARK and gain THORNS for 5/7/10 seconds each when either Fighter deals at least 10% MAX HEALTH from a single HIT.",
+    "SA2": "Opponents are inflicted with BLEED for 3/4/5 seconds when dashing while suffering from DEATH MARK.",
+    "gold":{
+      "min_atk": "375",
+      "max_atk": "6075",
+      "min_hp": "1786",
+      "max_hp": "28934",
+      "min_fs": "471",
+      "max_fs": "11977"
+    },
+    "diamond":{
+      "min_atk": "675",
+      "max_atk": "12960",
+      "min_hp": "3215",
+      "max_hp": "61728",
+      "min_fs": "848",
+      "max_fs": "25550"
+    }
+  },
+  "harlequin":{
+    "name": "Harlequin",
+    "rarity": "gold",
+    "element": "fire",
+    "character": "<:sp_cb:685401170495537152> Cerebella",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/ce/hQuin.png",
+    "ability": "SPECIAL ATTRACTION",
+    "SA1": "SPECIAL MOVE damage is increased by 10/15/20% for all teammates.",
+    "SA2": "COOLDOWN for SPECIAL MOVES is reduced by 25/30/35% for all teammates.",
+    "gold":{
+      "min_atk": "375",
+      "max_atk": "6075",
+      "min_hp": "1786",
+      "max_hp": "28934",
+      "min_fs": "471",
+      "max_fs": "11977"
+    },
+    "diamond":{
+      "min_atk": "675",
+      "max_atk": "12960",
+      "min_hp": "3215",
+      "max_hp": "61728",
+      "min_fs": "848",
+      "max_fs": "25550"
+    }
+  },
+  "heavyhanded":{
+    "name": "Heavy Handed",
+    "rarity": "diamond",
+    "element": "fire",
+    "character": "<:sp_cb:685401170495537152> Cerebella",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/ce/hHanded.png",
+    "ability": "KNUCKLE SANDVICH",
+    "SA1": "Gain ENRAGE every 0.3/0.2/0.1 seconds while charging a CHARGE ATTACK. ENRAGE is removed after the next HIT.",
+    "SA2": "While reaching 5 stacks of ENRAGE, gain UNFLINCHING for 5/7/10 seconds. UNFLINCHING is removed after the next HIT.",
+    "diamond":{
+      "min_atk": "685",
+      "max_atk": "13152",
+      "min_hp": "4169",
+      "max_hp": "80045",
+      "min_fs": "966",
+      "max_fs": "29116"
+    }
+  },
+  "starspangled":{
+    "name": "Star-Spangled",
+    "rarity": "diamond",
+    "element": "water",
+    "character": "<:sp_cb:685401170495537152> Cerebella",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/ce/sSpang.png",
+    "ability": "FLYING HIGH",
+    "SA1": "Inflict ARMOR BREAK for 10/12/15 seconds when either Fighter breaks a THROW.",
+    "SA2": "15/20/25% chance on HIT to inflict STUN for 5 seconds if the opponent is suffering ARMOR BREAK and is in the air.",
+    "diamond":{
+      "min_atk": "582",
+      "max_atk": "11175",
+      "min_hp": "4586",
+      "max_hp": "88052",
+      "min_fs": "943",
+      "max_fs": "28410"
+    }
+  },
+  "nunsense":{
+    "name": "Nunsense",
+    "rarity": "bronze",
+    "element": "air",
+    "character": "<:sp_db:692275933536845884> Double",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/do/nSense.png",
+    "ability": "COUNTERFEIT",
+    "SA1": "When at an ELEMENTAL ADVANTAGE, gain 1/2/3 random BUFFS for 10 seconds any time the opponent gains a BUFF.",
+    "SA2": "When at an ELEMENTAL ADVANTAGE, inflict 1/2/3 random DEBUFFS for 10 seconds after suffering any DEBUFF.",
+    "bronze":{
+      "min_atk": "74",
+      "max_atk": "755",
+      "min_hp": "300",
+      "max_hp": "3060",
+      "min_fs": "87",
+      "max_fs": "1391"
+    },
+    "silver":{
+      "min_atk": "133",
+      "max_atk": "1756",
+      "min_hp": "540",
+      "max_hp": "7128",
+      "min_fs": "157",
+      "max_fs": "3236"
+    },
+    "gold":{
+      "min_atk": "240",
+      "max_atk": "3888",
+      "min_hp": "972",
+      "max_hp": "15747",
+      "min_fs": "282",
+      "max_fs": "7158"
+    },
+    "diamond":{
+      "min_atk": "432",
+      "max_atk": "8295",
+      "min_hp": "1750",
+      "max_hp": "33600",
+      "min_fs": "507",
+      "max_fs": "15271"
+    }
+  },
+  "sundaeschool":{
+    "name": "Sundae School",
+    "rarity": "bronze",
+    "element": "water",
+    "character": "<:sp_db:692275933536845884> Double",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/do/sSchool.png",
+    "ability": "MELTING POINT",
+    "SA1": "When any teammate inflicts a DEBUFF (excluding STUN), increase its duration by 1/2/3 second(s).",
+    "SA2": "When any teammate suffers a DEBUFF (excluding STUN), reduce its duration by 1/2/3 second(s).",
+    "bronze":{
+      "min_atk": "69",
+      "max_atk": "704",
+      "min_hp": "363",
+      "max_hp": "3703",
+      "min_fs": "91",
+      "max_fs": "1452"
+    },
+    "silver":{
+      "min_atk": "124",
+      "max_atk": "1637",
+      "min_hp": "653",
+      "max_hp": "8620",
+      "min_fs": "163",
+      "max_fs": "3378"
+    },
+    "gold":{
+      "min_atk": "224",
+      "max_atk": "3629",
+      "min_hp": "1176",
+      "max_hp": "19052",
+      "min_fs": "294",
+      "max_fs": "7478"
+    },
+    "diamond":{
+      "min_atk": "403",
+      "max_atk": "7738",
+      "min_hp": "2117",
+      "max_hp": "40647",
+      "min_fs": "530",
+      "max_fs": "15950"
+    }
+  },
+  "doublicious":{
+    "name": "Doublicious",
+    "rarity": "silver",
+    "element": "light",
+    "character": "<:sp_db:692275933536845884> Double",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/do/dLicious.png",
+    "ability": "STICKY FINGERS",
+    "SA1": "10/15/25% chance on HIT to TRANSFER 1 BUFF from the opponent to yourself.",
+    "SA2": "10/15/25% chance when HIT to TRANSFER 1 DEBUFF from yourself to the opponent.",
+    "silver":{
+      "min_atk": "155",
+      "max_atk": "2046",
+      "min_hp": "630",
+      "max_hp": "8316",
+      "min_fs": "182",
+      "max_fs": "3772"
+    },
+    "gold":{
+      "min_atk": "279",
+      "max_atk": "4520",
+      "min_hp": "1134",
+      "max_hp": "18371",
+      "min_fs": "328",
+      "max_fs": "8333"
+    },
+    "diamond":{
+      "min_atk": "502",
+      "max_atk": "9639",
+      "min_hp": "2041",
+      "max_hp": "39188",
+      "min_fs": "590",
+      "max_fs": "17772"
+    }
+  },
+  "mystmatch":{
+    "name": "Myst-Match",
+    "rarity": "silver",
+    "element": "water",
+    "character": "<:sp_db:692275933536845884> Double",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/do/mMatch.png",
+    "ability": "SHAPE OF SLAUGHTER",
+    "SA1": "While sharing the opponent's same element, gain a 50/75/100% chance to MIRROR all of an opponent's BUFFS any time the opponent gains a BUFF.",
+    "SA2": "Gain 1/2/3 stack(s) of PRECISION when a BUFF expires.",
+    "silver":{
+      "min_atk": "178",
+      "max_atk": "2350",
+      "min_hp": "567",
+      "max_hp": "7485",
+      "min_fs": "191",
+      "max_fs": "3954"
+    },
+    "gold":{
+      "min_atk": "320",
+      "max_atk": "5184",
+      "min_hp": "1021",
+      "max_hp": "16541",
+      "min_fs": "344",
+      "max_fs": "8727"
+    },
+    "diamond":{
+      "min_atk": "577",
+      "max_atk": "11079",
+      "min_hp": "1837",
+      "max_hp": "35271",
+      "min_fs": "619",
+      "max_fs": "18637"
+    }
+  },
+  "templetyrant":{
+    "name": "Temple Tyrant",
+    "rarity": "silver",
+    "element": "water",
+    "character": "<:sp_db:692275933536845884> Double",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/do/tTyrant.png",
+    "ability": "MORPHA",
+    "SA1": "When TRANSMUTING to an ELEMENTAL ADVANTAGE, heal for 15/20/25% HEALTH.",
+    "SA2": "Gain a 25/35/50% chance to convert any DEBUFF into ARMOR and REGEN for 10 seconds when at an ELEMENTAL ADVANTAGE.",
+    "silver":{
+      "min_atk": "132",
+      "max_atk": "1743",
+      "min_hp": "693",
+      "max_hp": "9148",
+      "min_fs": "174",
+      "max_fs": "3592"
+    },
+    "gold":{
+      "min_atk": "238",
+      "max_atk": "3856",
+      "min_hp": "1247",
+      "max_hp": "20202",
+      "min_fs": "313",
+      "max_fs": "7939"
+    },
+    "diamond":{
+      "min_atk": "428",
+      "max_atk": "8218",
+      "min_hp": "2245",
+      "max_hp": "43104",
+      "min_fs": "562",
+      "max_fs": "16927"
+    }
+  },
+  "evergreenevil":{
+    "name": "Evergreen Evil",
+    "rarity": "gold",
+    "element": "air",
+    "character": "<:sp_db:692275933536845884> Double",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/do/eEvil.png",
+    "ability": "PRESENT DANGER",
+    "SA1": "5/7/10% chance when HIT while not at an ELEMENTAL DISADVANTAGE to gain REGEN and THORNS for 5 seconds, and to remove all DEBUFFS.",
+    "SA2": "When Double or any teammate gains a BUFF, its duration is increased by 3/4/5 seconds and Double gains 5% BLOCKBUSTER METER.",
+    "gold":{
+      "min_atk": "297",
+      "max_atk": "4812",
+      "min_hp": "1455",
+      "max_hp": "23571",
+      "min_fs": "378",
+      "max_fs": "9606"
+    },
+    "diamond":{
+      "min_atk": "535",
+      "max_atk": "10272",
+      "min_hp": "2619",
+      "max_hp": "50285",
+      "min_fs": "681",
+      "max_fs": "20500"
+    }
+  },
+  "immoralfiber":{
+    "name": "Immoral Fiber",
+    "rarity": "gold",
+    "element": "fire",
+    "character": "<:sp_db:692275933536845884> Double",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/do/iFiber.png",
+    "ability": "REAP AND SEW",
+    "SA1": "On DEATH, deal damage equivalent to 25/35/50% of your MAX HEALTH.",
+    "SA2": "On DEATH, heal all teammates by 25/35/50% of your MAX HEALTH.",
+    "gold":{
+      "min_atk": "297",
+      "max_atk": "4812",
+      "min_hp": "1455",
+      "max_hp": "23571",
+      "min_fs": "378",
+      "max_fs": "9606"
+    },
+    "diamond":{
+      "min_atk": "535",
+      "max_atk": "10272",
+      "min_hp": "2619",
+      "max_hp": "50285",
+      "min_fs": "681",
+      "max_fs": "20500"
+    }
+  },
+  "rainbowblight":{
+    "name": "Rainbow Blight",
+    "rarity": "gold",
+    "element": "neutral",
+    "character": "<:sp_db:692275933536845884> Double",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/do/rBlight.png",
+    "ability": "PENTAGLAM",
+    "SA1": "When TRANSMUTING, gain BUFFS based on the resulting ELEMENT for 5/7/10 seconds (Air: Heavy Regen, Fire: 2 Enrage, Water: 2 Armor, Dark: Haste, Light: Immunity).",
+    "SA2": "When TRANSMUTING, inflict DEBUFFS based on the resulting ELEMENT for 5/7/10 seconds (Air: Disable Blockbusters, Fire: Bleed, Water: Cripple, Dark: Heal Block, Light: Hex).",
+    "gold":{
+      "min_atk": "326",
+      "max_atk": "5282",
+      "min_hp": "1323",
+      "max_hp": "21433",
+      "min_fs": "383",
+      "max_fs": "9731"
+    },
+    "diamond":{
+      "min_atk": "587",
+      "max_atk": "11271",
+      "min_hp": "2381",
+      "max_hp": "45716",
+      "min_fs": "689",
+      "max_fs": "20761"
+    }
+  },
+  "xenomorph":{
+    "name": "Xenomorph",
+    "rarity": "gold",
+    "element": "dark",
+    "character": "<:sp_db:692275933536845884> Double",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/do/xMorph.png",
+    "ability": "GAME OVER",
+    "SA1": "50/75/100% chance when TRANSMUTING to the DARK element to inflict a permanent DOOM effect, killing the enemy after 30 seconds. DOOM will be removed if Double is defeated.",
+    "SA2": "On DEATH, inflict 1/2/3 stack of permanent BLEED.",
+    "gold":{
+      "min_atk": "375",
+      "max_atk": "6075",
+      "min_hp": "1191",
+      "max_hp": "19295",
+      "min_fs": "402",
+      "max_fs": "10211"
+    },
+    "diamond":{
+      "min_atk": "675",
+      "max_atk": "12960",
+      "min_hp": "2144",
+      "max_hp": "41165",
+      "min_fs": "723",
+      "max_fs": "21784"
+    }
+  },
+  "heartofdarkness":{
+    "name": "Heart of Darkness",
+    "rarity": "diamond",
+    "element": "dark",
+    "character": "<:sp_db:692275933536845884> Double",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/do/hDarkn.png",
+    "ability": "CORRUPTED WISH",
+    "SA1": "Once per match when TRANSMUTING to the opponent's element, permanently copy their Signature Ability and inflict HEX for 20/25/30 seconds.",
+    "SA2": "50/75/100% chance when Double's opponent TAGS OUT for all active opponent DEBUFFS to transfer to the incoming opponent.",
+    "diamond":{
+      "min_atk": "685",
+      "max_atk": "13152",
+      "min_hp": "2778",
+      "max_hp": "53338",
+      "min_fs": "804",
+      "max_fs": "24224"
+    }
+  },
+  "jawbreaker":{
+    "name": "Jawbreaker",
+    "rarity": "diamond",
+    "element": "light",
+    "character": "<:sp_db:692275933536845884> Double",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/do/jBreaker.png",
+    "ability": "MYSTERY FLAVOR",
+    "SA1": "When TRANSMUTING, gain a random BUFF for 5/6/7 seconds.",
+    "SA2": "Deal 10/15/20% bonus damage for each BUFF applied to Double.",
+    "diamond":{
+      "min_atk": "788",
+      "max_atk": "15130",
+      "min_hp": "2501",
+      "max_hp": "48020",
+      "min_fs": "844",
+      "max_fs": "25424"
+    }
+  },
+  "decrypted":{
+    "name": "Decrypted",
+    "rarity": "bronze",
+    "element": "dark",
+    "character": "<:sp_el:692287012450992219> Eliza",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/el/dCrypt.png",
+    "ability": "ENVY",
+    "SA1": "Inflict 25/35/50% bonus damage against an opponent with BUFFS.",
+    "SA2": "Inflict 15/20/25% bonus damage for each of the opponents living teammates.",
+    "bronze":{
+      "min_atk": "62",
+      "max_atk": "633",
+      "min_hp": "545",
+      "max_hp": "5559",
+      "min_fs": "107",
+      "max_fs": "1714"
+    },
+    "silver":{
+      "min_atk": "112",
+      "max_atk": "1479",
+      "min_hp": "981",
+      "max_hp": "12950",
+      "min_fs": "193",
+      "max_fs": "3998"
+    },
+    "gold":{
+      "min_atk": "201",
+      "max_atk": "3257",
+      "min_hp": "1766",
+      "max_hp": "28610",
+      "min_fs": "347",
+      "max_fs": "8820"
+    },
+    "diamond":{
+      "min_atk": "362",
+      "max_atk": "6951",
+      "min_hp": "3178",
+      "max_hp": "61018",
+      "min_fs": "625",
+      "max_fs": "18816"
+    }
+  },
+  "indenile":{
+    "name": "In Denile",
+    "rarity": "bronze",
+    "element": "water",
+    "character": "<:sp_el:692287012450992219> Eliza",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/el/inDeni.png",
+    "ability": "BENEATH THE SKIN",
+    "SA1": "Gain ARMOR for 5/10/15 seconds when triggering Sekhmet.",
+    "SA2": "Remove all DEBUFFS and gain IMMUNITY for 5/10/15 seconds when triggering Sekhmet.",
+    "bronze":{
+      "min_atk": "66",
+      "max_atk": "674",
+      "min_hp": "450",
+      "max_hp": "4590",
+      "min_fs": "99",
+      "max_fs": "1582"
+    },
+    "silver":{
+      "min_atk": "119",
+      "max_atk": "1571",
+      "min_hp": "810",
+      "max_hp": "10692",
+      "min_fs": "178",
+      "max_fs": "3685"
+    },
+    "gold":{
+      "min_atk": "214",
+      "max_atk": "3467",
+      "min_hp": "1458",
+      "max_hp": "23620",
+      "min_fs": "320",
+      "max_fs": "8137"
+    },
+    "diamond":{
+      "min_atk": "385",
+      "max_atk": "7392",
+      "min_hp": "2624",
+      "max_hp": "50381",
+      "min_fs": "576",
+      "max_fs": "17352"
+    }
+  },
+  "bloodyvalentine":{
+    "name": "Bloody Valentine",
+    "rarity": "silver",
+    "element": "air",
+    "character": "<:sp_el:692287012450992219> Eliza",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/el/bValen.png",
+    "ability": "PYRAMID SCHEME",
+    "SA1": "Regain 5/10/15% HEALTH when either fighter uses a SPECIAL MOVE.",
+    "SA2": "Regain 5/10/15% SUPER METER when either fighter uses a BLOCKBUSTER.",
+    "silver":{
+      "min_atk": "139",
+      "max_atk": "1835",
+      "min_hp": "945",
+      "max_hp": "12474",
+      "min_fs": "208",
+      "max_fs": "4302"
+    },
+    "gold":{
+      "min_atk": "250",
+      "max_atk": "4050",
+      "min_hp": "1701",
+      "max_hp": "27557",
+      "min_fs": "374",
+      "max_fs": "9499"
+    },
+    "diamond":{
+      "min_atk": "450",
+      "max_atk": "8640",
+      "min_hp": "3062",
+      "max_hp": "58791",
+      "min_fs": "673",
+      "max_fs": "20264"
+    }
+  },
+  "scarletviper":{
+    "name": "Scarlet Viper",
+    "rarity": "silver",
+    "element": "fire",
+    "character": "<:sp_el:692287012450992219> Eliza",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/el/sViper.png",
+    "ability": "SEEING RED",
+    "SA1": "Inflict BLEED for 10/12/15 seconds on both fighters when triggering Sekhmet.",
+    "SA2": "Gain ENRAGE for 10/12/15 seconds when suffering a DEBUFF.",
+    "silver":{
+      "min_atk": "160",
+      "max_atk": "2112",
+      "min_hp": "850",
+      "max_hp": "11220",
+      "min_fs": "212",
+      "max_fs": "4377"
+    },
+    "gold":{
+      "min_atk": "288",
+      "max_atk": "4666",
+      "min_hp": "1530",
+      "max_hp": "24786",
+      "min_fs": "381",
+      "max_fs": "9668"
+    },
+    "diamond":{
+      "min_atk": "518",
+      "max_atk": "9946",
+      "min_hp": "2754",
+      "max_hp": "52877",
+      "min_fs": "684",
+      "max_fs": "20616"
+    }
+  },
+  "tombandgloom":{
+    "name": "Tomb & Gloom",
+    "rarity": "silver",
+    "element": "dark",
+    "character": "<:sp_el:692287012450992219> Eliza",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/el/gloom.png",
+    "ability": "ASTRAL DEFLECTION",
+    "SA1": "Inflict WITHER, CURSE, HEALBLOCK, HEX, or DEATHMARK for 5/7/10 seconds when using a BLOCKBUSTER.",
+    "SA2": "Also gain 1 stack of EVASION for 5/7/10 seconds.",
+    "silver":{
+      "min_atk": "118",
+      "max_atk": "1558",
+      "min_hp": "1040",
+      "max_hp": "13728",
+      "min_fs": "204",
+      "max_fs": "4227"
+    },
+    "gold":{
+      "min_atk": "212",
+      "max_atk": "3435",
+      "min_hp": "1872",
+      "max_hp": "30327",
+      "min_fs": "367",
+      "max_fs": "9330"
+    },
+    "diamond":{
+      "min_atk": "382",
+      "max_atk": "7335",
+      "min_hp": "3370",
+      "max_hp": "64704",
+      "min_fs": "661",
+      "max_fs": "19913"
+    }
+  },
+  "divaintervention":{
+    "name": "Diva Intervention",
+    "rarity": "gold",
+    "element": "light",
+    "character": "<:sp_el:692287012450992219> Eliza",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/el/dInterv.png",
+    "ability": "BLEACHED BONE",
+    "SA1": "25/35/50% of the damage inflicted by Sekhmet attacks is regained as HEALTH.",
+    "SA2": "Sekhmet attacks drain 4/6/8% of the opponent's BLOCKBUSTER METER.",
+    "gold":{
+      "min_atk": "292",
+      "max_atk": "4731",
+      "min_hp": "1985",
+      "max_hp": "32157",
+      "min_fs": "436",
+      "max_fs": "11090"
+    },
+    "diamond":{
+      "min_atk": "526",
+      "max_atk": "10100",
+      "min_hp": "3573",
+      "max_hp": "68602",
+      "min_fs": "786",
+      "max_fs": "23666"
+    }
+  },
+  "bloodbath":{
+    "name": "Bloodbath",
+    "rarity": "gold",
+    "element": "dark",
+    "character": "<:sp_el:692287012450992219> Eliza",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/el/bBath.png",
+    "ability": "SANGUINE SOLO",
+    "SA1": "If either fighter uses a BLOCKBUSTER, both fighters are afflicted with BLEED for 5/7/10 seconds.",
+    "SA2": "25/50/100% chance to convert all BLEED effects on self into REGEN.",
+    "gold":{
+      "min_atk": "336",
+      "max_atk": "5444",
+      "min_hp": "1786",
+      "max_hp": "28934",
+      "min_fs": "444",
+      "max_fs": "11283"
+    },
+    "diamond":{
+      "min_atk": "605",
+      "max_atk": "11616",
+      "min_hp": "3215",
+      "max_hp": "61728",
+      "min_fs": "799",
+      "max_fs": "24073"
+    }
+  },
+  "redvelvet":{
+    "name": "Red Velvet",
+    "rarity": "gold",
+    "element": "fire",
+    "character": "<:sp_el:692287012450992219> Eliza",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/el/rVelvet.png",
+    "ability": "WITCHING HOUR",
+    "SA1": "Inflict HEX for 10/12/15 seconds when triggering Sekhmet, disabling opponent SIGNATURE ABILITIES for the duration of the effect.",
+    "SA2": "If an opponent TAGS OUT while suffering from HEX, the next opponent will be inflicted with 3 random DEBUFFS for 10/12/15 seconds.",
+    "gold":{
+      "min_atk": "248",
+      "max_atk": "4018",
+      "min_hp": "2184",
+      "max_hp": "35381",
+      "min_fs": "429",
+      "max_fs": "10897"
+    },
+    "diamond":{
+      "min_atk": "446",
+      "max_atk": "8564",
+      "min_hp": "3931",
+      "max_hp": "75476",
+      "min_fs": "771",
+      "max_fs": "23237"
+    }
+  },
+  "lapisluxury":{
+    "name": "Lapis Luxury",
+    "rarity": "gold",
+    "element": "water",
+    "character": "<:sp_el:692287012450992219> Eliza",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/el/lLux.png",
+    "ability": "TURNING TIDES",
+    "SA1": "Once per match when TAGGING IN, match the meter value of the opponent's highest BLOCKBUSTER METER and inflict ARMOR BREAK for 10/12/15 seconds.",
+    "SA2": "Once per match when using a LEVEL 3 BLOCKBUSTER, switch HEALTH percentages with the opponent and gain HEAVY REGEN for 10/12/15 seconds.",
+    "gold":{
+      "min_atk": "336",
+      "max_atk": "5444",
+      "min_hp": "1786",
+      "max_hp": "28934",
+      "min_fs": "444",
+      "max_fs": "11283"
+    },
+    "diamond":{
+      "min_atk": "605",
+      "max_atk": "11616",
+      "min_hp": "3215",
+      "max_hp": "61728",
+      "min_fs": "799",
+      "max_fs": "24073"
+    }
+  },
+  "innerpieces":{
+    "name": "Inner Pieces",
+    "rarity": "gold",
+    "element": "neutral",
+    "character": "<:sp_el:692287012450992219> Eliza",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/el/iPiece.png",
+    "ability": "SELF-ABSORBED",
+    "SA1": "When entering Sekhmet Mode, gain a BUFF for 10/12/15 seconds per teammate. The BUFF gained is determined by each teammate's ELEMENT.",
+    "SA2": "50/75/100% chance when TAGGING to or from Eliza for all active BUFFS to transfer to the incoming Fighter.",
+    "gold":{
+      "min_atk": "292",
+      "max_atk": "4731",
+      "min_hp": "1985",
+      "max_hp": "32157",
+      "min_fs": "436",
+      "max_fs": "11090"
+    },
+    "diamond":{
+      "min_atk": "526",
+      "max_atk": "10100",
+      "min_hp": "3573",
+      "max_hp": "68602",
+      "min_fs": "786",
+      "max_fs": "23666"
+    }
+  },
+  "standout":{
+    "name": "Stand Out",
+    "rarity": "diamond",
+    "element": "air",
+    "character": "<:sp_el:692287012450992219> Eliza",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/el/sOut.png",
+    "ability": "BUFFET",
+    "SA1": "50/60/75% of all damage is regained as HEALTH as long as Eliza's health percentage is lower than her opponent's (also applies on Blocked hits).",
+    "SA2": "Each BUFF gained by the opponent has a 25/35/50% chance to be removed and immediately build 25% meter for all of Eliza's BLOCKBUSTERS.",
+    "diamond":{
+      "min_atk": "613",
+      "max_atk": "11770",
+      "min_hp": "4169",
+      "max_hp": "80045",
+      "min_fs": "916",
+      "max_fs": "27597"
+    }
+  },
+  "mummydearest":{
+    "name": "Mummy Dearest",
+    "rarity": "diamond",
+    "element": "light",
+    "character": "<:sp_el:692287012450992219> Eliza",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/el/mDear.png",
+    "ability": "ABSOLUTE DOMINATION",
+    "SA1": "Using a SPECIAL MOVE sacrifices 20% of all teammates' current HEALTH to gain 25/35/50% BLOCKBUSTER METER and HEAVY REGEN for 10 seconds.",
+    "SA2": "Gain BLESSING for 20/25/30 seconds when entering SEKHMET MODE.",
+    "diamond":{
+      "min_atk": "521",
+      "max_atk": "10004",
+      "min_hp": "4586",
+      "max_hp": "88052",
+      "min_fs": "900",
+      "max_fs": "27123"
+    }
+  },
+  "badhairday":{
+    "name": "Bad Hair Day",
+    "rarity": "bronze",
+    "element": "dark",
+    "character": "<:sp_fi:698821373698637894> Filia",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/fi/bHDay.png",
+    "ability": "RAZOR SHEARS",
+    "SA1": "10% chance on HIT to inflict BLEED for 3/5/7 seconds.",
+    "SA2": "10/12/15% bonus to CRIT RATE if opponent has BLEED.",
+    "bronze":{
+      "min_atk": "66",
+      "max_atk": "674",
+      "min_hp": "350",
+      "max_hp": "3570",
+      "min_fs": "88",
+      "max_fs": "1395"
+    },
+    "silver":{
+      "min_atk": "119",
+      "max_atk": "1571",
+      "min_hp": "630",
+      "max_hp": "8316",
+      "min_fs": "157",
+      "max_fs": "3250"
+    },
+    "gold":{
+      "min_atk": "214",
+      "max_atk": "3467",
+      "min_hp": "1134",
+      "max_hp": "18371",
+      "min_fs": "283",
+      "max_fs": "7176"
+    },
+    "diamond":{
+      "min_atk": "385",
+      "max_atk": "7392",
+      "min_hp": "2041",
+      "max_hp": "39188",
+      "min_fs": "508",
+      "max_fs": "15302"
+    }
+  },
+  "frayedends":{
+    "name": "Frayed Ends",
+    "rarity": "bronze",
+    "element": "fire",
+    "character": "<:sp_fi:698821373698637894> Filia",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/fi/fEnds.png",
+    "ability": "CUT IT OUT!",
+    "SA1": "20% chance when HIT to inflict BLEED for 3/5/7 seconds.",
+    "SA2": "Inflict 25/35/50% bonus damage against an enemy with BLEED.",
+    "bronze":{
+      "min_atk": "62",
+      "max_atk": "633",
+      "min_hp": "424",
+      "max_hp": "4325",
+      "min_fs": "93",
+      "max_fs": "1488"
+    },
+    "silver":{
+      "min_atk": "112",
+      "max_atk": "1479",
+      "min_hp": "763",
+      "max_hp": "10072",
+      "min_fs": "168",
+      "max_fs": "3471"
+    },
+    "gold":{
+      "min_atk": "201",
+      "max_atk": "3257",
+      "min_hp": "1374",
+      "max_hp": "22259",
+      "min_fs": "301",
+      "max_fs": "7657"
+    },
+    "diamond":{
+      "min_atk": "362",
+      "max_atk": "6951",
+      "min_hp": "2473",
+      "max_hp": "47482",
+      "min_fs": "542",
+      "max_fs": "16337"
+    }
+  },
+  "hairapparent":{
+    "name": "Hair Apparent",
+    "rarity": "silver",
+    "element": "air",
+    "character": "<:sp_fi:698821373698637894> Filia",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/fi/hAppar.png",
+    "ability": "HAIR TRIGGER",
+    "SA1": "Using a SPECIAL MOVE grants HASTE for 10/12/15 seconds.",
+    "SA2": "Using a BLOCKBUSTER has a 50/75/100% chance to reset the COOLDOWN of all SPECIAL MOVES.",
+    "silver":{
+      "min_atk": "160",
+      "max_atk": "2112",
+      "min_hp": "661",
+      "max_hp": "8726",
+      "min_fs": "190",
+      "max_fs": "3920"
+    },
+    "gold":{
+      "min_atk": "288",
+      "max_atk": "4666",
+      "min_hp": "1190",
+      "max_hp": "19278",
+      "min_fs": "341",
+      "max_fs": "8660"
+    },
+    "diamond":{
+      "min_atk": "518",
+      "max_atk": "9946",
+      "min_hp": "2142",
+      "max_hp": "41127",
+      "min_fs": "613",
+      "max_fs": "18464"
+    }
+  },
+  "rockstar":{
+    "name": "Rock Star",
+    "rarity": "silver",
+    "element": "light",
+    "character": "<:sp_fi:698821373698637894> Filia",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/fi/rStar.png",
+    "ability": "GEM SHIELD",
+    "SA1": "While Filia is alive, all teammates TAG IN with 1/2/3 stacks of BARRIER for 10 seconds.",
+    "SA2": "When any teammate's BARRIER expires, they gain FINAL STAND for 10 seconds and 10/15/20% METER for all BLOCKBUSTERS.",
+    "silver":{
+      "min_atk": "118",
+      "max_atk": "1558",
+      "min_hp": "809",
+      "max_hp": "10679",
+      "min_fs": "177",
+      "max_fs": "3669"
+    },
+    "gold":{
+      "min_atk": "212",
+      "max_atk": "3435",
+      "min_hp": "1456",
+      "max_hp": "23588",
+      "min_fs": "319",
+      "max_fs": "8096"
+    },
+    "diamond":{
+      "min_atk": "382",
+      "max_atk": "7335",
+      "min_hp": "2621",
+      "max_hp": "50324",
+      "min_fs": "574",
+      "max_fs": "17279"
+    }
+  },
+  "parasiteweave":{
+    "name": "Parasite Weave",
+    "rarity": "gold",
+    "element": "fire",
+    "character": "<:sp_fi:698821373698637894> Filia",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/fi/pWeave.png",
+    "ability": "ENTANGLEMENT",
+    "SA1": "50% chance on CRITICAL HIT to inflict SLOW for 10 seconds and STUN for 2/2.5/3 seconds if the opponent is not already afflicted with SLOW.",
+    "SA2": "5/10/15% chance on HIT to inflict BLEED for 5 seconds if opponent is STUNNED.",
+    "gold":{
+      "min_atk": "292",
+      "max_atk": "4731",
+      "min_hp": "1544",
+      "max_hp": "25013",
+      "min_fs": "385",
+      "max_fs": "9781"
+    },
+    "diamond":{
+      "min_atk": "526",
+      "max_atk": "10100",
+      "min_hp": "2779",
+      "max_hp": "53357",
+      "min_fs": "693",
+      "max_fs": "20874"
+    }
+  },
+  "dreadlocks":{
+    "name": "Dread Locks",
+    "rarity": "gold",
+    "element": "light",
+    "character": "<:sp_fi:698821373698637894> Filia",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/fi/dLocks.png",
+    "ability": "LOCK NEST MONSTER",
+    "SA1": "When HIT, reflect 15/25/35% of the incoming damage.",
+    "SA2": "If the opponent lands a CRITICAL HIT, the opponent will receive HEAVY BLEED for 5/7/10 seconds.",
+    "gold":{
+      "min_atk": "248",
+      "max_atk": "4018",
+      "min_hp": "1698",
+      "max_hp": "27508",
+      "min_fs": "372",
+      "max_fs": "9455"
+    },
+    "diamond":{
+      "min_atk": "446",
+      "max_atk": "8564",
+      "min_hp": "3056",
+      "max_hp": "58676",
+      "min_fs": "669",
+      "max_fs": "20160"
+    }
+  },
+  "windswept":{
+    "name": "Windswept",
+    "rarity": "gold",
+    "element": "air",
+    "character": "<:sp_fi:698821373698637894> Filia",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/fi/wSwept.png",
+    "ability": "BLOWBACK",
+    "SA1": "Gain a 25/35/50% chance to EVADE all projectiles, avoiding damage and hit reactions.",
+    "SA2": "After EVADING, gain HASTE and ENRAGE for 5/7/10 seconds.",
+    "gold":{
+      "min_atk": "336",
+      "max_atk": "5444",
+      "min_hp": "1390",
+      "max_hp": "22518",
+      "min_fs": "398",
+      "max_fs": "10108"
+    },
+    "diamond":{
+      "min_atk": "605",
+      "max_atk": "11616",
+      "min_hp": "2502",
+      "max_hp": "48039",
+      "min_fs": "716",
+      "max_fs": "21566"
+    }
+  },
+  "idolthreat":{
+    "name": "Idol Threat",
+    "rarity": "gold",
+    "element": "water",
+    "character": "<:sp_fi:698821373698637894> Filia",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/fi/iThreat.png",
+    "ability": "THE SHOW MUST GO ON",
+    "SA1": "EVADING an attack grants FINAL STAND and ARMOR for 5/7/10 seconds.",
+    "SA2": "Inflict ARMOR BREAK for 5 seconds when HITTING a DASHING opponent. 100/150/200% of the damage inflicted is regained as HEALTH.",
+    "gold":{
+      "min_atk": "336",
+      "max_atk": "5444",
+      "min_hp": "1390",
+      "max_hp": "22518",
+      "min_fs": "398",
+      "max_fs": "10108"
+    },
+    "diamond":{
+      "min_atk": "605",
+      "max_atk": "11616",
+      "min_hp": "2502",
+      "max_hp": "48039",
+      "min_fs": "716",
+      "max_fs": "21566"
+    }
+  },
+  "classcutter":{
+    "name": "Class Cutter",
+    "rarity": "diamond",
+    "element": "dark",
+    "character": "<:sp_fi:698821373698637894> Filia",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/fi/cCutter.png",
+    "ability": "SPLITTING HAIRS",
+    "SA1": "All HITS from a BLOCKBUSTER or SPECIAL MOVE have a 10% chance to be UNBLOCKABLE and inflict DEATH MARK for 10/12/15 seconds.",
+    "SA2": "Inflict HEAVY BLEED and HEAL BLOCK for 10 seconds when dealing at least 10/7/5% of the opponent's MAX HEALTH from a single HIT.",
+    "diamond":{
+      "min_atk": "706",
+      "max_atk": "13556",
+      "min_hp": "2919",
+      "max_hp": "56045",
+      "min_fs": "835",
+      "max_fs": "25164"
+    }
+  },
+  "djinnfrizz":{
+    "name": "Djinn Frizz",
+    "rarity": "diamond",
+    "element": "fire",
+    "character": "<:sp_fi:698821373698637894> Filia",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/fi/djFriz.png",
+    "ability": "THREE WISHES",
+    "SA1": "Every 20/15/10 seconds gain 3 random BUFF(S) for 5 seconds.",
+    "SA2": "33% chance when using a BLOCKBUSTER to convert 1/2/3 BUFF(S) into permanent ENRAGE.",
+    "diamond":{
+      "min_atk": "812",
+      "max_atk": "15591",
+      "min_hp": "2627",
+      "max_hp": "50439",
+      "min_fs": "875",
+      "max_fs": "26374"
+    }
+  },
+  "justkitten":{
+    "name": "Just Kitten",
+    "rarity": "bronze",
+    "element": "water",
+    "character": "<:sp_mf:698837829467242496> Ms. Fortune",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/mf/jKit.png",
+    "ability": "FELINE AGILITY",
+    "SA1": "25/35/50% chance when suffering a DEBUFF to immediately convert that DEBUFF to a stack of PRECISION.",
+    "SA2": "5/10/15% chance on any non-projectile HIT to gain 1 stack of EVASION and HASTE for 10 seconds.",
+    "bronze":{
+      "min_atk": "82",
+      "max_atk": "837",
+      "min_hp": "350",
+      "max_hp": "3570",
+      "min_fs": "99",
+      "max_fs": "1574"
+    },
+    "silver":{
+      "min_atk": "148",
+      "max_atk": "1954",
+      "min_hp": "630",
+      "max_hp": "8316",
+      "min_fs": "178",
+      "max_fs": "3671"
+    },
+    "gold":{
+      "min_atk": "266",
+      "max_atk": "4310",
+      "min_hp": "1134",
+      "max_hp": "18371",
+      "min_fs": "319",
+      "max_fs": "8102"
+    },
+    "diamond":{
+      "min_atk": "478",
+      "max_atk": "9178",
+      "min_hp": "2041",
+      "max_hp": "39188",
+      "min_fs": "573",
+      "max_fs": "17265"
+    }
+  },
+  "hellcat":{
+    "name": "Hellcat",
+    "rarity": "bronze",
+    "element": "fire",
+    "character": "<:sp_mf:698837829467242496> Ms. Fortune",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/mf/hCat.png",
+    "ability": "PURRGATORY",
+    "SA1": "Gain permanent ENRAGE while HP is above 75/65/50%.",
+    "SA2": "Gain 3/4/5 stacks of PRECISION when defeating an opponent while benefiting from ENRAGE.",
+    "bronze":{
+      "min_atk": "94",
+      "max_atk": "959",
+      "min_hp": "315",
+      "max_hp": "3213",
+      "min_fs": "103",
+      "max_fs": "1643"
+    },
+    "silver":{
+      "min_atk": "169",
+      "max_atk": "2231",
+      "min_hp": "567",
+      "max_hp": "7485",
+      "min_fs": "185",
+      "max_fs": "3823"
+    },
+    "gold":{
+      "min_atk": "305",
+      "max_atk": "4941",
+      "min_hp": "1021",
+      "max_hp": "16541",
+      "min_fs": "333",
+      "max_fs": "8460"
+    },
+    "diamond":{
+      "min_atk": "548",
+      "max_atk": "10522",
+      "min_hp": "1837",
+      "max_hp": "35271",
+      "min_fs": "598",
+      "max_fs": "18025"
+    }
+  },
+  "felinelucky":{
+    "name": "Feline Lucky",
+    "rarity": "silver",
+    "element": "light",
+    "character": "<:sp_mf:698837829467242496> Ms. Fortune",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/mf/lucky.png",
+    "ability": "JACKPOT",
+    "SA1": "Gain 1/2/3 PRECISION buff every 7 seconds.",
+    "SA2": "2% chance on CRITICAL HIT to gain IMMUNE, INVINCIBLE, FINAL STAND, and UNFLINCHING for 15/20/25 seconds.",
+    "silver":{
+      "min_atk": "146",
+      "max_atk": "1928",
+      "min_hp": "809",
+      "max_hp": "10679",
+      "min_fs": "197",
+      "max_fs": "4075"
+    },
+    "gold":{
+      "min_atk": "263",
+      "max_atk": "4261",
+      "min_hp": "1456",
+      "max_hp": "23588",
+      "min_fs": "354",
+      "max_fs": "9004"
+    },
+    "diamond":{
+      "min_atk": "473",
+      "max_atk": "9082",
+      "min_hp": "2621",
+      "max_hp": "50324",
+      "min_fs": "637",
+      "max_fs": "19199"
+    }
+  },
+  "purrfectdark":{
+    "name": "Purrfect Dark",
+    "rarity": "silver",
+    "element": "dark",
+    "character": "<:sp_mf:698837829467242496> Ms. Fortune",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/mf/pDark.png",
+    "ability": "RARE SIGHTINGS",
+    "SA1": "After 15/12/10 seconds of facing Ms Fortune, the opponent suffers DEATH MARK and CURSE.",
+    "SA2": "HEAD HITS have a 10% chance to instantly defeat enemies if they are suffering from DEATH MARK and are below 25/35/50% HEALTH.",
+    "silver":{
+      "min_atk": "198",
+      "max_atk": "2614",
+      "min_hp": "662",
+      "max_hp": "8739",
+      "min_fs": "216",
+      "max_fs": "4474"
+    },
+    "gold":{
+      "min_atk": "356",
+      "max_atk": "5768",
+      "min_hp": "1192",
+      "max_hp": "19311",
+      "min_fs": "389",
+      "max_fs": "9877"
+    },
+    "diamond":{
+      "min_atk": "642",
+      "max_atk": "12327",
+      "min_hp": "2145",
+      "max_hp": "41184",
+      "min_fs": "700",
+      "max_fs": "21091"
+    }
+  },
+  "mstrial":{
+    "name": "Ms. Trial",
+    "rarity": "silver",
+    "element": "air",
+    "character": "<:sp_mf:698837829467242496> Ms. Fortune",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/mf/mTrial.png",
+    "ability": "OVERRULED",
+    "SA1": "When HITTING a DASHING opponent, remove 1 of the opponent's BUFFS and gain 3/4/5 stacks of PRECISION.",
+    "SA2": "PRECISION HITS have a 50/75/100% chance to ignore the opponent's DEFENSE and ARMOR.",
+    "silver":{
+      "min_atk": "172",
+      "max_atk": "2271",
+      "min_hp": "735",
+      "max_hp": "9702",
+      "min_fs": "207",
+      "max_fs": "4273"
+    },
+    "gold":{
+      "min_atk": "310",
+      "max_atk": "5022",
+      "min_hp": "1323",
+      "max_hp": "21433",
+      "min_fs": "372",
+      "max_fs": "9445"
+    },
+    "diamond":{
+      "min_atk": "557",
+      "max_atk": "10695",
+      "min_hp": "2381",
+      "max_hp": "45716",
+      "min_fs": "668",
+      "max_fs": "20128"
+    }
+  },
+  "clawandorder":{
+    "name": "Claw & Order",
+    "rarity": "gold",
+    "element": "air",
+    "character": "<:sp_mf:698837829467242496> Ms. Fortune",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/mf/claw.png",
+    "ability": "FROM SCRATCH",
+    "SA1": "CRITICAL HITS have a 25/35/50% chance to reset the timers of all opponent DEBUFFS except STUN and DOOM.",
+    "SA2": "Set the opponent's SPECIAL MOVES on cooldown and DISABLE their BLOCKBUSTERS for 10/12/15 seconds when dealing at least 10/7/5% of the opponent's MAX HEALTH from a single HIT.",
+    "gold":{
+      "min_atk": "362",
+      "max_atk": "5865",
+      "min_hp": "1544",
+      "max_hp": "25013",
+      "min_fs": "434",
+      "max_fs": "11028"
+    },
+    "diamond":{
+      "min_atk": "652",
+      "max_atk": "12519",
+      "min_hp": "2779",
+      "max_hp": "53357",
+      "min_fs": "781",
+      "max_fs": "23532"
+    }
+  },
+  "meowandfurever":{
+    "name": "Meow & Furever",
+    "rarity": "gold",
+    "element": "light",
+    "character": "<:sp_mf:698837829467242496> Ms. Fortune",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/mf/meow.png",
+    "ability": "CLOUD NINE",
+    "SA1": "Gain FINAL STAND for 10 seconds and 3/4/5 Stacks of PRECISION for every 10% HEALTH LOST.",
+    "SA2": "Enemy is inflicted with DEATH MARK for 10/12/15 seconds and STUN for 4 seconds when FINAL STAND expires.",
+    "gold":{
+      "min_atk": "307",
+      "max_atk": "4974",
+      "min_hp": "1699",
+      "max_hp": "27524",
+      "min_fs": "414",
+      "max_fs": "10508"
+    },
+    "diamond":{
+      "min_atk": "553",
+      "max_atk": "10618",
+      "min_hp": "3058",
+      "max_hp": "58714",
+      "min_fs": "744",
+      "max_fs": "22424"
+    }
+  },
+  "hacknsplash":{
+    "name": "Hack n' Splash",
+    "rarity": "gold",
+    "element": "water",
+    "character": "<:sp_mf:698837829467242496> Ms. Fortune",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/mf/splash.png",
+    "ability": "SPLASH DAMAGE",
+    "SA1": "A well-timed BLOCK against standard attacks grants 3/4/5 stacks of PRECISION and inflicts CRIPPLE and ARMOR BREAK for 10 seconds.",
+    "SA2": "Landing CRITICAL HITS with Ms. Fortune's HEAD deal an additional 1/2/3% of the opponent's MAX HEALTH if they are inflicted with CRIPPLE.",
+    "gold":{
+      "min_atk": "415",
+      "max_atk": "6723",
+      "min_hp": "1390",
+      "max_hp": "22518",
+      "min_fs": "453",
+      "max_fs": "11514"
+    },
+    "diamond":{
+      "min_atk": "747",
+      "max_atk": "14343",
+      "min_hp": "2502",
+      "max_hp": "48039",
+      "min_fs": "815",
+      "max_fs": "24563"
+    }
+  },
+  "rogueagent":{
+    "name": "Rogue Agent",
+    "rarity": "gold",
+    "element": "dark",
+    "character": "<:sp_mf:698837829467242496> Ms. Fortune",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/mf/rogue.png",
+    "ability": "SNEAK ATTACK",
+    "SA1": "Each HEAD HIT has a 25% chance to TRANSFER 1 opponent BUFF and convert it into 1/2/3 stack(s) of PRECISION.",
+    "SA2": "PRECISION HITS grant EVASION and inflict DEATH MARK for 5/7/10 seconds. Each stack of EVASION is removed after an evaded HIT.",
+    "gold":{
+      "min_atk": "415",
+      "max_atk": "6723",
+      "min_hp": "1390",
+      "max_hp": "22518",
+      "min_fs": "453",
+      "max_fs": "11514"
+    },
+    "diamond":{
+      "min_atk": "747",
+      "max_atk": "14343",
+      "min_hp": "2502",
+      "max_hp": "48039",
+      "min_fs": "815",
+      "max_fs": "24563"
+    }
+  },
+  "furryfury":{
+    "name": "Furry Fury",
+    "rarity": "diamond",
+    "element": "fire",
+    "character": "<:sp_mf:698837829467242496> Ms. Fortune",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/mf/fFury.png",
+    "ability": "SLASH AND BURN",
+    "SA1": "HEAD HITS have a 15% chance to inflict BLEED for 5/7/10 seconds.",
+    "SA2": "Gain ENRAGE every 3/2/1 second(s) while near an opponent suffering BLEED. The ENRAGE is removed when no longer near the opponent.",
+    "diamond":{
+      "min_atk": "760",
+      "max_atk": "14592",
+      "min_hp": "3242",
+      "max_hp": "62247",
+      "min_fs": "911",
+      "max_fs": "27439"
+    }
+  },
+  "windstalker":{
+    "name": "Wind Stalker",
+    "rarity": "diamond",
+    "element": "air",
+    "character": "<:sp_mf:698837829467242496> Ms. Fortune",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/mf/wStalk.png",
+    "ability": "STALKING HEADS",
+    "SA1": "While near Ms. Fortune's head, opponent's lose 3/4/5% BLOCKBUSTER METER per second.",
+    "SA2": "Inflict DEATHMARK, DISABLE TAG INS, and DOOM for 15 seconds each when an opponent's HEALTH drops below 25/30/35%. DOOM is removed if the opponent uses a BLOCKBUSTER.",
+    "diamond":{
+      "min_atk": "645",
+      "max_atk": "12384",
+      "min_hp": "3568",
+      "max_hp": "68506",
+      "min_fs": "868",
+      "max_fs": "26159"
+    }
+  },
+  "scrub":{
+    "name": "Scrub",
+    "rarity": "bronze",
+    "element": "air",
+    "character": "<:sp_va:698852651617746974> Valentine",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/va/scrub.png",
+    "ability": "OUT PATIENT",
+    "SA1": "Instantly recover 15/20/25% HEALTH when TAGGING OUT.",
+    "SA2": "Teammates in reserve regenrates SCRATCH DAMAGE and gain BLOCKBUSTER meter 50/75/100% faster.",
+    "bronze":{
+      "min_atk": "58",
+      "max_atk": "592",
+      "min_hp": "400",
+      "max_hp": "4080",
+      "min_fs": "88",
+      "max_fs": "1398"
+    },
+    "silver":{
+      "min_atk": "104",
+      "max_atk": "1373",
+      "min_hp": "720",
+      "max_hp": "9504",
+      "min_fs": "157",
+      "max_fs": "3250"
+    },
+    "gold":{
+      "min_atk": "188",
+      "max_atk": "3046",
+      "min_hp": "1296",
+      "max_hp": "20996",
+      "min_fs": "283",
+      "max_fs": "7194"
+    },
+    "diamond":{
+      "min_atk": "338",
+      "max_atk": "6490",
+      "min_hp": "2333",
+      "max_hp": "44794",
+      "min_fs": "509",
+      "max_fs": "15338"
+    }
+  },
+  "icyhot":{
+    "name": "Icy Hot",
+    "rarity": "bronze",
+    "element": "water",
+    "character": "<:sp_va:698852651617746974> Valentine",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/va/iHot.png",
+    "ability": "FIRST RESPONDER",
+    "SA1": "All teammates TAG IN with REGEN for 10/12/15 seconds.",
+    "SA2": "On TAG IN, all teammates gain 5/10/15% meter for all BLOCKBUSTERS.",
+    "bronze":{
+      "min_atk": "73",
+      "max_atk": "745",
+      "min_hp": "396",
+      "max_hp": "4040",
+      "min_fs": "98",
+      "max_fs": "1559"
+    },
+    "silver":{
+      "min_atk": "131",
+      "max_atk": "1730",
+      "min_hp": "713",
+      "max_hp": "9412",
+      "min_fs": "175",
+      "max_fs": "3626"
+    },
+    "gold":{
+      "min_atk": "237",
+      "max_atk": "3840",
+      "min_hp": "1283",
+      "max_hp": "20785",
+      "min_fs": "316",
+      "max_fs": "8028"
+    },
+    "diamond":{
+      "min_atk": "426",
+      "max_atk": "8180",
+      "min_hp": "2309",
+      "max_hp": "44333",
+      "min_fs": "568",
+      "max_fs": "17111"
+    }
+  },
+  "graveyardshift":{
+    "name": "Graveyard Shift",
+    "rarity": "silver",
+    "element": "dark",
+    "character": "<:sp_va:698852651617746974> Valentine",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/va/gShift.png",
+    "ability": "FORENSICS",
+    "SA1": "Valentine and all teammates gain HEAVY REGEN for 10/12/15 seconds when any fighter is defeated.",
+    "SA2": "15% Chance on HIT to inflict CURSE and HEAL BLOCK for 5/7/10 seconds when benefitting from REGEN.",
+    "silver":{
+      "min_atk": "104",
+      "max_atk": "1373",
+      "min_hp": "924",
+      "max_hp": "12197",
+      "min_fs": "181",
+      "max_fs": "3744"
+    },
+    "gold":{
+      "min_atk": "187",
+      "max_atk": "3840",
+      "min_hp": "1663",
+      "max_hp": "20785",
+      "min_fs": "325",
+      "max_fs": "8028"
+    },
+    "diamond":{
+      "min_atk": "337",
+      "max_atk": "6471",
+      "min_hp": "2994",
+      "max_hp": "57485",
+      "min_fs": "586",
+      "max_fs": "17641"
+    }
+  },
+  "ohmai":{
+    "name": "Oh Mai",
+    "rarity": "silver",
+    "element": "fire",
+    "character": "<:sp_va:698852651617746974> Valentine",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/va/oMai.png",
+    "ability": "DEADLY FURY",
+    "SA1": "Gain 2 stacks of ENRAGE for 15/17/20 seconds and gain 5 stacks of PRECISON after defeating an opponent.",
+    "SA2": "When any teammate is defeated, all remaining teammates gain 2 stacks ENRAGE for 7/10/15 seconds.",
+    "silver":{
+      "min_atk": "140",
+      "max_atk": "1848",
+      "min_hp": "756",
+      "max_hp": "9980",
+      "min_fs": "187",
+      "max_fs": "3859"
+    },
+    "gold":{
+      "min_atk": "252",
+      "max_atk": "3840",
+      "min_hp": "1361",
+      "max_hp": "20785",
+      "min_fs": "336",
+      "max_fs": "8028"
+    },
+    "diamond":{
+      "min_atk": "454",
+      "max_atk": "8717",
+      "min_hp": "2449",
+      "max_hp": "47021",
+      "min_fs": "604",
+      "max_fs": "18193"
+    }
+  },
+  "killjoy":{
+    "name": "Kill Joy",
+    "rarity": "silver",
+    "element": "light",
+    "character": "<:sp_va:698852651617746974> Valentine",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/va/kJoy.png",
+    "ability": "PRIDE AND JOY",
+    "SA1": "Teammates gain permanent REGEN when first dropping below 25/35/50% HP at ELEMENTAL ADVANTAGE.",
+    "SA2": "Once per match on DEATH, RESURRECT all defeated teammates with 15/20/25% HP.",
+    "silver":{
+      "min_atk": "122",
+      "max_atk": "1611",
+      "min_hp": "840",
+      "max_hp": "11088",
+      "min_fs": "184",
+      "max_fs": "3802"
+    },
+    "gold":{
+      "min_atk": "220",
+      "max_atk": "3564",
+      "min_hp": "1512",
+      "max_hp": "20785",
+      "min_fs": "331",
+      "max_fs": "8028"
+    },
+    "diamond":{
+      "min_atk": "395",
+      "max_atk": "7584",
+      "min_hp": "2722",
+      "max_hp": "52263",
+      "min_fs": "595",
+      "max_fs": "17908"
+    }
+  },
+  "silentkill":{
+    "name": "Silent Kill",
+    "rarity": "gold",
+    "element": "water",
+    "character": "<:sp_va:698852651617746974> Valentine",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/va/sKill.png",
+    "ability": "FOGGY MEMORY",
+    "SA1": "15/20/25% chance on HIT to remove all DEBUFFS from self.",
+    "SA2": "15/20/25% chance on HIT to remove all BUFFS from opponent.",
+    "gold":{
+      "min_atk": "256",
+      "max_atk": "4148",
+      "min_hp": "1764",
+      "max_hp": "28577",
+      "min_fs": "385",
+      "max_fs": "9794"
+    },
+    "diamond":{
+      "min_atk": "461",
+      "max_atk": "8852",
+      "min_hp": "3175",
+      "max_hp": "60960",
+      "min_fs": "694",
+      "max_fs": "20895"
+    }
+  },
+  "lasthope":{
+    "name": "Last Hope",
+    "rarity": "gold",
+    "element": "light",
+    "character": "<:sp_va:698852651617746974> Valentine",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/va/lHope.png",
+    "ability": "URGENT CARE",
+    "SA1": "Once per match while Valentine is alive, teammates gain HEAVY REGEN for 5/7/10 seconds when dropping below 25% health.",
+    "SA2": "Once per match when defeated, RESURRECT with 15/25/50% HEALTH.",
+    "gold":{
+      "min_atk": "218",
+      "max_atk": "3532",
+      "min_hp": "1940",
+      "max_hp": "31428",
+      "min_fs": "379",
+      "max_fs": "9639"
+    },
+    "diamond":{
+      "min_atk": "392",
+      "max_atk": "7527",
+      "min_hp": "3492",
+      "max_hp": "67047",
+      "min_fs": "682",
+      "max_fs": "20553"
+    }
+  },
+  "surgeongeneral":{
+    "name": "Surgeon General",
+    "rarity": "gold",
+    "element": "air",
+    "character": "<:sp_va:698852651617746974> Valentine",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/va/sGeneral.png",
+    "ability": "STIMPAK",
+    "SA1": "While Valentine is alive, she gains a permanent ENRAGE every 60/45/30 seconds.",
+    "SA2": "While Valentine is alive, she grants IMMUNE and HEAVY REGEN for 10/12/15 seconds to all teammates every 30 seconds.",
+    "gold":{
+      "min_atk": "294",
+      "max_atk": "4763",
+      "min_hp": "1588",
+      "max_hp": "25726",
+      "min_fs": "392",
+      "max_fs": "9947"
+    },
+    "diamond":{
+      "min_atk": "529",
+      "max_atk": "10157",
+      "min_hp": "2858",
+      "max_hp": "54874",
+      "min_fs": "704",
+      "max_fs": "21214"
+    }
+  },
+  "pyrotechnique":{
+    "name": "Pyro-Technique",
+    "rarity": "gold",
+    "element": "fire",
+    "character": "<:sp_va:698852651617746974> Valentine",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/va/pTech.png",
+    "ability": "SOUL BURN",
+    "SA1": "Inflict 2 stacks of WITHER for 5/7/10 seconds when HITTING an opponent with a CHARGE ATTACK.",
+    "SA2": "Gain ENRAGE for 5/7/10 seconds when HITTING an opponent with a fully depleted BLOCKBUSTER.",
+    "gold":{
+      "min_atk": "256",
+      "max_atk": "4148",
+      "min_hp": "1764",
+      "max_hp": "28577",
+      "min_fs": "385",
+      "max_fs": "9794"
+    },
+    "diamond":{
+      "min_atk": "461",
+      "max_atk": "8852",
+      "min_hp": "3175",
+      "max_hp": "60960",
+      "min_fs": "694",
+      "max_fs": "20895"
+    }
+  },
+  "assassinsgreed":{
+    "name": "Assassin's Greed",
+    "rarity": "diamond",
+    "element": "light",
+    "character": "<:sp_va:698852651617746974> Valentine",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/va/aGreed.png",
+    "ability": "BLED DRY",
+    "SA1": "When the opponent uses a BLOCKBUSTER against Valentine, they lose 15/20/25% of their remaining HEALTH and suffer HEAVY BLEED for 5 seconds.",
+    "SA2": "Gain 3/4/5% HEALTH per second while nearby an opponent suffering BLEED.",
+    "diamond":{
+      "min_atk": "458",
+      "max_atk": "8794",
+      "min_hp": "4074",
+      "max_hp": "78221",
+      "min_fs": "796",
+      "max_fs": "23993"
+    }
+  },
+  "treschic":{
+    "name": "Tr\u00E9s Chic",
+    "rarity": "diamond",
+    "element": "dark",
+    "character": "<:sp_va:698852651617746974> Valentine",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/va/tChic.png",
+    "ability": "TWO-FACED",
+    "SA1": "While on her own side of the stage, Valentine gains 1 stack of BARRIER, THORNS or ARMOR every 5/4/3 seconds. These BUFFS are removed when KNOCKED DOWN.",
+    "SA2": "While on the opponent's side of the stage, CRITICAL HITS inflict BLEED, DEATH MARK, or ARMOR BREAK for 5/7/10 seconds.",
+    "diamond":{
+      "min_atk": "617",
+      "max_atk": "11847",
+      "min_hp": "3335",
+      "max_hp": "64032",
+      "min_fs": "821",
+      "max_fs": "24749"
+    }
+  },
+  "rerun":{
+    "name": "Rerun",
+    "rarity": "bronze",
+    "element": "fire",
+    "character": "<:sp_pe:698879915713626142> Peacock",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/pe/rerun.png",
+    "ability": "ENSEMBLE CAST",
+    "SA1": "All teammates TAG IN with ENRAGE for 10/12/15 seconds.",
+    "SA2": "COOLDOWN for TAG INS reduced by 25/35/50% for all teammates.",
+    "bronze":{
+      "min_atk": "74",
+      "max_atk": "755",
+      "min_hp": "350",
+      "max_hp": "3570",
+      "min_fs": "93",
+      "max_fs": "1484"
+    },
+    "silver":{
+      "min_atk": "133",
+      "max_atk": "1756",
+      "min_hp": "630",
+      "max_hp": "8316",
+      "min_fs": "167",
+      "max_fs": "3454"
+    },
+    "gold":{
+      "min_atk": "240",
+      "max_atk": "3888",
+      "min_hp": "1134",
+      "max_hp": "18371",
+      "min_fs": "301",
+      "max_fs": "7638"
+    },
+    "diamond":{
+      "min_atk": "432",
+      "max_atk": "8295",
+      "min_hp": "2041",
+      "max_hp": "39188",
+      "min_fs": "541",
+      "max_fs": "16295"
+    }
+  },
+  "sketchy":{
+    "name": "Sketchy",
+    "rarity": "bronze",
+    "element": "air",
+    "character": "<:sp_pe:698879915713626142> Peacock",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/pe/sketch.png",
+    "ability": "RUNNING GAG",
+    "SA1": "While peacock is alive, all teammates TAG IN with HASTE and IMMUNITY for 5/7/10 seconds (except after teammate death).",
+    "SA2": "While peacock is alive, All opponents TAG IN with SLOW and CURSE for 5/7/10 seconds (except after teammate death).",
+    "bronze":{
+      "min_atk": "94",
+      "max_atk": "959",
+      "min_hp": "347",
+      "max_hp": "3540",
+      "min_fs": "107",
+      "max_fs": "1703"
+    },
+    "silver":{
+      "min_atk": "169",
+      "max_atk": "2231",
+      "min_hp": "625",
+      "max_hp": "8250",
+      "min_fs": "192",
+      "max_fs": "3963"
+    },
+    "gold":{
+      "min_atk": "305",
+      "max_atk": "4941",
+      "min_hp": "1124",
+      "max_hp": "18209",
+      "min_fs": "345",
+      "max_fs": "8766"
+    },
+    "diamond":{
+      "min_atk": "548",
+      "max_atk": "10522",
+      "min_hp": "2024",
+      "max_hp": "38861",
+      "min_fs": "620",
+      "max_fs": "18682"
+    }
+  },
+  "peashooter":{
+    "name": "Pea Shooter",
+    "rarity": "silver",
+    "element": "air",
+    "character": "<:sp_pe:698879915713626142> Peacock",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/pe/pShoot.png",
+    "ability": "VINTAGE PROJECTOR",
+    "SA1": "Projectiles inflict 15/25/35% more damage for all teammates.",
+    "SA2": "All projectiles have a 10/15% chance to inflict ARMOR BREAK for 3/6 seconds.",
+    "silver":{
+      "min_atk": "178",
+      "max_atk": "2350",
+      "min_hp": "661",
+      "max_hp": "8726",
+      "min_fs": "202",
+      "max_fs": "4181"
+    },
+    "gold":{
+      "min_atk": "320",
+      "max_atk": "5184",
+      "min_hp": "1190",
+      "max_hp": "19278",
+      "min_fs": "363",
+      "max_fs": "9229"
+    },
+    "diamond":{
+      "min_atk": "577",
+      "max_atk": "11079",
+      "min_hp": "2142",
+      "max_hp": "41127",
+      "min_fs": "654",
+      "max_fs": "19709"
+    }
+  },
+  "inkling":{
+    "name": "Inkling",
+    "rarity": "silver",
+    "element": "dark",
+    "character": "<:sp_pe:698879915713626142> Peacock",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/pe/ink.png",
+    "ability": "GANGING UP",
+    "SA1": "Inflict 15/20/25% bonus damage for each living teammate.",
+    "SA2": "SPECIAL MOVES have a 15/20/25% chance to be UNBLOCKABLE while Peacock has living teammates.",
+    "silver":{
+      "min_atk": "155",
+      "max_atk": "2046",
+      "min_hp": "735",
+      "max_hp": "9702",
+      "min_fs": "195",
+      "max_fs": "4026"
+    },
+    "gold":{
+      "min_atk": "279",
+      "max_atk": "4520",
+      "min_hp": "1323",
+      "max_hp": "21433",
+      "min_fs": "350",
+      "max_fs": "8894"
+    },
+    "diamond":{
+      "min_atk": "503",
+      "max_atk": "9639",
+      "min_hp": "2381",
+      "max_hp": "45716",
+      "min_fs": "630",
+      "max_fs": "18967"
+    }
+  },
+  "wildcard":{
+    "name": "Wildcard",
+    "rarity": "silver",
+    "element": "fire",
+    "character": "<:sp_pe:698879915713626142> Peacock",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/pe/wCard.png",
+    "ability": "KILLING JOKE",
+    "SA1": "Inflict a random DEBUFF for 3/4/5 seconds when using a SPECIAL MOVE.",
+    "SA2": "If the opponent is suffering a DEBUFF when Peacock is defeated, the opponent's HEALTH is reduced by 25/35/50%.",
+    "silver":{
+      "min_atk": "132",
+      "max_atk": "1743",
+      "min_hp": "809",
+      "max_hp": "10679",
+      "min_fs": "187",
+      "max_fs": "3872"
+    },
+    "gold":{
+      "min_atk": "238",
+      "max_atk": "3856",
+      "min_hp": "1456",
+      "max_hp": "23588",
+      "min_fs": "337",
+      "max_fs": "8559"
+    },
+    "diamond":{
+      "min_atk": "428",
+      "max_atk": "8218",
+      "min_hp": "2621",
+      "max_hp": "50324",
+      "min_fs": "606",
+      "max_fs": "18250"
+    }
+  },
+  "untouchable":{
+    "name": "Untouchable",
+    "rarity": "gold",
+    "element": "water",
+    "character": "<:sp_pe:698879915713626142> Peacock",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/pe/uTouch.png",
+    "ability": "BULLETPROOF",
+    "SA1": "5/10/15% chance on getting HIT to avoid all damage (also applies while blocking).",
+    "SA2": "Also gain UNFLINCHING for 4/5/6 seconds.",
+    "gold":{
+      "min_atk": "297",
+      "max_atk": "4812",
+      "min_hp": "1698",
+      "max_hp": "27508",
+      "min_fs": "406",
+      "max_fs": "10327"
+    },
+    "diamond":{
+      "min_atk": "535",
+      "max_atk": "10272",
+      "min_hp": "3056",
+      "max_hp": "58676",
+      "min_fs": "732",
+      "max_fs": "22037"
+    }
+  },
+  "thatsallfolks":{
+    "name": "That's All Folks!",
+    "rarity": "gold",
+    "element": "light",
+    "character": "<:sp_pe:698879915713626142> Peacock",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/pe/tAFolks.png",
+    "ability": "SLAPSTICK",
+    "SA1": "Getting HIT has a 15% chance to inflict ARMOR BREAK for 5/7/10 seconds and grant 3/4/5 stacks of PRECISION and 1 stack of EVASION.",
+    "SA2": "While Peacock is alive, enemies have 50/60/75% reduced CRIT RATE.",
+    "gold":{
+      "min_atk": "326",
+      "max_atk": "5282",
+      "min_hp": "1544",
+      "max_hp": "25013",
+      "min_fs": "409",
+      "max_fs": "10387"
+    },
+    "diamond":{
+      "min_atk": "587",
+      "max_atk": "11271",
+      "min_hp": "2779",
+      "max_hp": "53357",
+      "min_fs": "736",
+      "max_fs": "22161"
+    }
+  },
+  "ultraviolent":{
+    "name": "Ultraviolent",
+    "rarity": "gold",
+    "element": "dark",
+    "character": "<:sp_pe:698879915713626142> Peacock",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/pe/uViolent.png",
+    "ability": "DEATH THROW",
+    "SA1": "Projectiles have a 25/35/50% chance to ignore the opponent's DEFENSE and ARMOR.",
+    "SA2": "Projectiles inflict 25/35/50% more damage against opponents with UNFLINCHING or ARMOR.",
+    "gold":{
+      "min_atk": "375",
+      "max_atk": "6075",
+      "min_hp": "1390",
+      "max_hp": "22518",
+      "min_fs": "425",
+      "max_fs": "10801"
+    },
+    "diamond":{
+      "min_atk": "675",
+      "max_atk": "12960",
+      "min_hp": "2502",
+      "max_hp": "48039",
+      "min_fs": "765",
+      "max_fs": "23043"
+    }
+  },
+  "meanone":{
+    "name": "Mean One",
+    "rarity": "gold",
+    "element": "fire",
+    "character": "<:sp_pe:698879915713626142> Peacock",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/pe/mOne.png",
+    "ability": "HOLIDAY JEERS",
+    "SA1": "Gain ENRAGE for 10/12/15 seconds for every BUFF gained by the opponent.",
+    "SA2": "Projectiles have a 25/35/50% chance on HIT to convert 1 opponent BUFF into a random DEBUFF.",
+    "gold":{
+      "min_atk": "375",
+      "max_atk": "6075",
+      "min_hp": "1390",
+      "max_hp": "22518",
+      "min_fs": "425",
+      "max_fs": "10801"
+    },
+    "diamond":{
+      "min_atk": "675",
+      "max_atk": "12960",
+      "min_hp": "2502",
+      "max_hp": "48039",
+      "min_fs": "765",
+      "max_fs": "23043"
+    }
+  },
+  "freezeframe":{
+    "name": "Freeze Frame",
+    "rarity": "diamond",
+    "element": "water",
+    "character": "<:sp_pe:698879915713626142> Peacock",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/pe/fFrame.png",
+    "ability": "FROSTBITE",
+    "SA1": "Projectiles have a 25/35/50% chance to inflict SLOW and WITHER for 15 seconds. Both effects are removed if the opponent uses a BLOCKBUSTER.",
+    "SA2": "When SLOW or WITHER expires, the opponent suffers damage equal to 25/35/50% of Peacock's ATTACK and is STUNNED for 3 seconds.",
+    "diamond":{
+      "min_atk": "624",
+      "max_atk": "11981",
+      "min_hp": "3566",
+      "max_hp": "68468",
+      "min_fs": "853",
+      "max_fs": "25709"
+    }
+  },
+  "dreamcatcher":{
+    "name": "Dream Catcher",
+    "rarity": "diamond",
+    "element": "light",
+    "character": "<:sp_pe:698879915713626142> Peacock",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/pe/dCatch.png",
+    "ability": "THE BIG SLEEP",
+    "SA1": "SPECIAL MOVES and TAG INS have a 25% chance on HIT to STUN the opponent for 4/5/6 seconds (does not affect Dark Fighters).",
+    "SA2": "Every 3/2/1 second(s) while facing a STUNNED opponent, Peacock gains 1 stack of PRECISION and her teammates gain 5% BLOCKBUSTER METER, and 5% HEALTH.",
+    "diamond":{
+      "min_atk": "685",
+      "max_atk": "13152",
+      "min_hp": "3242",
+      "max_hp": "62247",
+      "min_fs": "856",
+      "max_fs": "25856"
+    }
+  },
+  "sheltered":{
+    "name": "Sheltered",
+    "rarity": "bronze",
+    "element": "fire",
+    "character": "<:sp_pa:698884548678910043> Parasoul",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/pa/shelt.png",
+    "ability": "OVERLY-CRITICAL",
+    "SA1": "Increases CRIT RATE by 10/15/20% for all teammates.",
+    "SA2": "On CRITICAL HIT, gain ENRAGE for 5/6/7 seconds.",
+    "bronze":{
+		"min_atk":"66",
+		"max_atk":"674",
+		"min_hp":"400",
+		"max_hp":"4080", 
+		"min_fs":"93",
+		"max_fs":"1489"
+	},
+	"silver":{
+		"min_atk":"119",
+		"max_atk":"1571",
+		"min_hp":"720",
+		"max_hp":"9504",
+		"min_fs":"168",
+		"max_fs":"3468"
+	},
+	"gold":{
+		"min_atk":"214",
+		"max_atk":"3467",
+		"min_hp":"1296",
+		"max_hp":"20996", 
+		"min_fs":"301",
+		"max_fs":"7657"
+	},
+	"diamond":{
+		"min_atk":"385",
+		"max_atk":"7392",
+		"min_hp":"2333",
+		"max_hp":"44794",
+		"min_fs":"542",
+		"max_fs":"16329"
+	}
+  },
+  "heavyreign":{
+    "name": "Heavy Reign",
+    "rarity": "bronze",
+    "element": "air",
+    "character": "<:sp_pa:698884548678910043> Parasoul",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/pa/hReign.png",
+    "ability": "OVERCAST",
+    "SA1": "50% chance on CRITICAL HIT, gain 10/12/15% meter for all BLOCKBUSTERS.",
+    "SA2": "50% chance to gain 10/12/15% meter for all BLOCKBUSTERS when suffering a CRITICAL HIT.",
+    "bronze":{
+		"min_atk":"62",
+		"max_atk":"633",
+		"min_hp":"484",
+		"max_hp":"4937", 
+		"min_fs":"100",
+		"max_fs":"1600"
+	},
+	"silver":{
+		"min_atk":"112",
+		"max_atk":"1479",
+		"min_hp":"871",
+		"max_hp":"11498", 
+		"min_fs":"181",
+		"max_fs":"3732"
+	},
+	"gold":{
+		"min_atk":"201",
+		"max_atk":"3257",
+		"min_hp":"1568",
+		"max_hp":"25402",
+		"min_fs":"324",
+		"max_fs":"8233"
+	},
+	"diamond":{
+		"min_atk":"362",
+		"max_atk":"6951",
+		"min_hp":"2823",
+		"max_hp":"54202", 
+		"min_fs":"583",
+		"max_fs":"17568"
+	}
+  },
+  "noegrets":{
+    "name": "No Egrets",
+    "rarity": "silver",
+    "element": "water",
+    "character": "<:sp_pa:698884548678910043> Parasoul",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/pa/nEgrets.png",
+    "ability": "MARTIAL LAW",
+    "SA1": "On CRITICAL HIT, disable opponent's BLOCKBUSTERS for 2/3/4 seconds.",
+    "SA2": "Also disable SPECIAL MOVES and TAG INS for 2/3/4 seconds.",
+    "silver":{
+		"min_atk":"139",
+		"max_atk":"1835",
+		"min_hp":"840",
+		"max_hp":"11088", 
+		"min_fs":"196",
+		"max_fs":"4048"
+	},
+	"gold":{
+		"min_atk":"250",
+		"max_atk":"4050",
+		"min_hp":"1512",
+		"max_hp":"24495",  
+		"min_fs":"352",
+		"max_fs":"8938"
+	},
+	"diamond":{
+		"min_atk":"450",
+		"max_atk":"8640",
+		"min_hp":"2722",
+		"max_hp":"52263",
+		"min_fs":"633",
+		"max_fs":"19069"
+	}
+  },
+  "ivyleague":{
+    "name": "Ivy League",
+    "rarity": "silver",
+    "element": "air",
+    "character": "<:sp_pa:698884548678910043> Parasoul",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/pa/iLeague.png",
+    "ability": "FENCED IN",
+    "SA1": "SLOW opponent's BLOCKBUSTERS for 5/7/10 seconds when spawning a TEAR.",
+    "SA2": "On TEAR DETONATION, inflicts WITHER for 5/7/10 seconds per active TEAR.",
+    "silver":{
+		"min_atk":"160",
+		"max_atk":"2112",
+		"min_hp":"756",
+		"max_hp":"9980",
+		"min_fs":"201",
+		"max_fs":"4150"
+	},
+	"gold":{
+		"min_atk":"288",
+		"max_atk":"4666",
+		"min_hp":"1361",
+		"max_hp":"22049", 
+		"min_fs":"361",
+		"max_fs":"9167"
+	},
+	"diamond":{
+		"min_atk":"518",
+		"max_atk":"9946",
+		"min_hp":"2449",
+		"max_hp":"47021", 
+		"min_fs":"649",
+		"max_fs":"19544"
+	}
+  },
+  "shadowops":{
+    "name": "Shadow Ops",
+    "rarity": "silver",
+    "element": "dark",
+    "character": "<:sp_pa:698884548678910043> Parasoul",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/pa/sOps.png",
+    "ability": "THROWING SHADE",
+    "SA1": "Opponents suffer CURSE after 3/2/1 seconds while near a TEAR.",
+    "SA2": "Gain THORNS every 3/2/1 seconds while near a TEAR.",
+    "silver":{
+		"min_atk":"118",
+		"max_atk":"1558",
+		"min_hp":"924",
+		"max_hp":"12197", 
+		"min_fs":"191",
+		"max_fs":"3947"
+	},
+	"gold":{
+		"min_atk":"212",
+		"max_atk":"3435",
+		"min_hp":"1663",
+		"max_hp":"26941", 
+		"min_fs":"343",
+		"max_fs":"8710"
+	},
+	"diamond":{
+		"min_atk":"382",
+		"max_atk":"7335",
+		"min_hp":"2994",
+		"max_hp":"57485", 
+		"min_fs":"617",
+		"max_fs":"18591"
+	}
+  },
+  "primed":{
+    "name": "Primed",
+    "rarity": "gold",
+    "element": "dark",
+    "character": "<:sp_pa:698884548678910043> Parasoul",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/pa/prime.png",
+    "ability": "SCREWED ATTACK",
+    "SA1": "Gain ENRAGE for 5/7/10 seconds when spawning a TEAR.",
+    "SA2": "Detonated TEARS inflict BLEED for 3/4/5 seconds on HIT.",
+    "gold":{
+		"min_atk":"336",
+		"max_atk":"5444",
+		"min_hp":"1588",
+		"max_hp":"25726", 
+		"min_fs":"421",
+		"max_fs":"10696"
+	},
+	"diamond":{
+		"min_atk":"605",
+		"max_atk":"11616",
+		"min_hp":"2858",
+		"max_hp":"54874",  
+		"min_fs":"757",
+		"max_fs":"22818"
+	}
+  },
+  "princesspride":{
+    "name": "Princess Pride",
+    "rarity": "gold",
+    "element": "light",
+    "character": "<:sp_pa:698884548678910043> Parasoul",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/pa/pPride.png",
+    "ability": "TEARS OF JOY",
+    "SA1": "Gain REGEN for 4/5/6 seconds when spawning a TEAR.",
+    "SA2": "On TEAR DETONATION, immediately recover 2/4/6% HEALTH per active TEAR.",
+    "gold":{
+		"min_atk":"248",
+		"max_atk":"4018",
+		"min_hp":"1940",
+		"max_hp":"31428",  
+		"min_fs":"400",
+		"max_fs":"10173"
+	},
+	"diamond":{
+		"min_atk":"446",
+		"max_atk":"8564",
+		"min_hp":"3492",
+		"max_hp":"67047", 
+		"min_fs":"720",
+		"max_fs":"21693"
+	}
+  },
+  "regallyblonde":{
+    "name": "Regally Blonde",
+    "rarity": "gold",
+    "element": "water",
+    "character": "<:sp_pa:698884548678910043> Parasoul",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/pa/rBlonde.png",
+    "ability": "ON ICE",
+    "SA1": "When an opponent uses a BLOCKBUSTER, there is a 50% chance that their remaining BLOCKBUSTER METERS are reduced by 50/60/75%.",
+    "SA2": "On TEAR DETONATION, each active tear DISABLES opponent SPECIAL MOVES, BLOCKBUSTERS, or TAG INS for 5/6/8 seconds.",
+    "gold":{
+		"min_atk":"292",
+		"max_atk":"4731",
+		"min_hp":"1764",
+		"max_hp":"28577", 
+		"min_fs":"411",
+		"max_fs":"10434"
+	},
+	"diamond":{
+		"min_atk":"526",
+		"max_atk":"10100",
+		"min_hp":"3175",
+		"max_hp":"60960",  
+		"min_fs":"739",
+		"max_fs":"22266"
+	}
+  },
+  "starcrossed":{
+    "name": "Star-Crossed",
+    "rarity": "gold",
+    "element": "air",
+    "character": "<:sp_pa:698884548678910043> Parasoul",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/pa/sCross.png",
+    "ability": "RIPOSTE APOCALYPSE",
+    "SA1": "A well-timed BLOCK against standard attacks has a 50% chance to STUN the enemy for 1/2/3 seconds.",
+    "SA2": "BLOCKBUSTERS inflict 50/75/100% bonus damage against STUNNED enemies.",
+    "gold":{
+		"min_atk":"292",
+		"max_atk":"4731",
+		"min_hp":"1764",
+		"max_hp":"28577", 
+		"min_fs":"411",
+		"max_fs":"10434"
+	},
+	"diamond":{
+		"min_atk":"526",
+		"max_atk":"10100",
+		"min_hp":"3175",
+		"max_hp":"60960",
+		"min_fs":"739",
+		"max_fs":"22266"
+	}
+  },
+  "summersalt":{
+    "name": "Summer Salt",
+    "rarity": "diamond",
+    "element": "light",
+    "character": "<:sp_pa:698884548678910043> Parasoul",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/pa/sSalt.png",
+    "ability": "A SALT RIFLE",
+    "SA1": "Opponents lose 1 BUFF and 1/2/3% HEALTH every 2 seconds while near a TEAR.",
+    "SA2": "When DETONATING at least 3 TEARS at once, REMOVE all DEBUFFS and gain 3/4/5 stacks of PRECISION. The detonated TEARS also deal 100% BONUS DAMAGE.",
+    "diamond":{
+		"min_atk":"706",
+		"max_atk":"13556",
+		"min_hp":"3335",
+		"max_hp":"64032",  
+		"min_fs":"884",
+		"max_fs":"26627"
+	}	
+  },
+  "riskyginger":{
+    "name": "Risky Ginger",
+    "rarity": "diamond",
+    "element": "fire",
+    "character": "<:sp_pa:698884548678910043> Parasoul",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/pa/rGing.png",
+    "ability": "RED-HANDED",
+    "SA1": "Inflict DEATH MARK for 10/12/15 seconds and gain ENRAGE when HITTING a DASHING opponent. A stack of ENRAGE is removed after each BLOCKED HIT.",
+    "SA2": "With at least 5/4/3 stacks of ENRAGE, BLOCKBUSTERS become UNBLOCKABLE.",
+    "diamond":{
+		"min_atk":"613",
+		"max_atk":"11770",
+		"min_hp":"3704",
+		"max_hp":"71117",
+		"min_fs":"862",
+		"max_fs":"25962"
+	}
+  },
+  "rusty":{
+    "name": "Rusty",
+    "rarity": "bronze",
+    "element": "light",
+    "character": "<:sp_pw:698904045389348914> Painwheel",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/pw/rusty.png",
+    "ability": "BLEED FOR ME",
+    "SA1": "5/7/10% chance on HIT to inflict BLEED for 3 seconds.",
+    "SA2": "Also converts 1/2/3 enemy BUFF(S) to BLEED.",
+    "bronze":{
+      "min_atk": "82",
+      "max_atk": "837",
+      "min_hp": "300",
+      "max_hp": "3060",
+      "min_fs": "93",
+      "max_fs": "1481"
+    },
+    "silver":{
+      "min_atk": "148",
+      "max_atk": "1954",
+      "min_hp": "540",
+      "max_hp": "7128",
+      "min_fs": "167",
+      "max_fs": "3454"
+    },
+    "gold":{
+      "min_atk": "266",
+      "max_atk": "4310",
+      "min_hp": "972",
+      "max_hp": "15747",
+      "min_fs": "300",
+      "max_fs": "7622"
+    },
+    "diamond":{
+      "min_atk": "478",
+      "max_atk": "9178",
+      "min_hp": "1750",
+      "max_hp": "33600",
+      "min_fs": "539",
+      "max_fs": "16242"
+    }
+  },
+  "twistedmettle":{
+    "name": "Twisted Mettle",
+    "rarity": "bronze",
+    "element": "water",
+    "character": "<:sp_pw:698904045389348914> Painwheel",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/pw/tMett.png",
+    "ability": "CUTTING EDGE",
+    "SA1": "When suffering a CRITICAL HIT, inflict BLEED for 10/12/15 seconds.",
+    "SA2": "25/35/50% chance on HIT to inflict BLEED for 3 seconds if opponent has BLEED.",
+    "bronze":{
+      "min_atk": "77",
+      "max_atk": "786",
+      "min_hp": "363",
+      "max_hp": "3703",
+      "min_fs": "97",
+      "max_fs": "1543"
+    },
+    "silver":{
+      "min_atk": "139",
+      "max_atk": "1835",
+      "min_hp": "653",
+      "max_hp": "8620",
+      "min_fs": "174",
+      "max_fs": "3596"
+    },
+    "gold":{
+      "min_atk": "249",
+      "max_atk": "4034",
+      "min_hp": "1176",
+      "max_hp": "18052",
+      "min_fs": "312",
+      "max_fs": "7924"
+    },
+    "diamond":{
+      "min_atk": "449",
+      "max_atk": "8621",
+      "min_hp": "2117",
+      "max_hp": "40647",
+      "min_fs": "562",
+      "max_fs": "16920"
+    }
+  },
+  "blooddrive":{
+    "name": "Blood Drive",
+    "rarity": "silver",
+    "element": "fire",
+    "character": "<:sp_pw:698904045389348914> Painwheel",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/pw/bDrive.png",
+    "ability": "TRANSFUSION",
+    "SA1": "5% chance on HIT to inflict BLEED on self and HEAVY BLEED on opponent for 5/7/10 seconds.",
+    "SA2": "Gain ENRAGE for 4/5/6 seconds for every BLEED effect applied to Painwheel.",
+    "silver":{
+      "min_atk": "172",
+      "max_atk": "2271",
+      "min_hp": "630",
+      "max_hp": "8316",
+      "min_fs": "194",
+      "max_fs": "4020"
+    },
+    "gold":{
+      "min_atk": "310",
+      "max_atk": "5022",
+      "min_hp": "1134",
+      "max_hp": "18371",
+      "min_fs": "350",
+      "max_fs": "8885"
+    },
+    "diamond":{
+      "min_atk": "556",
+      "max_atk": "10695",
+      "min_hp": "2041",
+      "max_hp": "39188",
+      "min_fs": "629",
+      "max_fs": "18932"
+    }
+  },
+  "rageappropriate":{
+    "name": "Rage Appropriate",
+    "rarity": "silver",
+    "element": "water",
+    "character": "<:sp_pw:698904045389348914> Painwheel",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/pw/rAppr.png",
+    "ability": "THIN-SKINNED",
+    "SA1": "Gain permanent ENRAGE every time an opponent's attack inflicts more than 15/13/10% total HEALTH.",
+    "SA2": "Once per match, gain HEAVY REGEN and 2 stacks of ARMOR for 10 seconds when HEALTH drops below 20/35/50%.",
+    "silver":{
+      "min_atk": "146",
+      "max_atk": "1928",
+      "min_hp": "693",
+      "max_hp": "9148",
+      "min_fs": "184",
+      "max_fs": "3795"
+    },
+    "gold":{
+      "min_atk": "263",
+      "max_atk": "4261",
+      "min_hp": "1247",
+      "max_hp": "20202",
+      "min_fs": "330",
+      "max_fs": "8384"
+    },
+    "diamond":{
+      "min_atk": "473",
+      "max_atk": "9082",
+      "min_hp": "2245",
+      "max_hp": "43104",
+      "min_fs": "594",
+      "max_fs": "17877"
+    }
+  },
+  "freakyfriday":{
+    "name": "Freaky Friday",
+    "rarity": "silver",
+    "element": "dark",
+    "character": "<:sp_pw:698904045389348914> Painwheel",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/pw/fFriday.png",
+    "ability": "LADY KILLER",
+    "SA1": "CRITICAL HITS inflict BLEED and DEATH MARK for 3/4/5 seconds each.",
+    "SA2": "Gain HASTE for 10 seconds and 3/4/5 stacks of PRECISION when defeating an opponent with a single HIT that deals at least 10% HEALTH.",
+    "silver":{
+      "min_atk": "198",
+      "max_atk": "2614",
+      "min_hp": "630",
+      "max_hp": "7485",
+      "min_fs": "194",
+      "max_fs": "4244"
+    },
+    "gold":{
+      "min_atk": "356",
+      "max_atk": "5768",
+      "min_hp": "1021",
+      "max_hp": "16541",
+      "min_fs": "369",
+      "max_fs": "9369"
+    },
+    "diamond":{
+      "min_atk": "642",
+      "max_atk": "12327",
+      "min_hp": "1836",
+      "max_hp": "35271",
+      "min_fs": "664",
+      "max_fs": "20008"
+    }
+  },
+  "rawnerv":{
+    "name": "Raw Nerv",
+    "rarity": "gold",
+    "element": "dark",
+    "character": "<:sp_pw:698904045389348914> Painwheel",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/pw/rNerv.png",
+    "ability": "DEATH'S DOOR",
+    "SA1": "Gain permanent ENRAGE and HASTE when your HEALTH drops below 25/35/50%.",
+    "SA2": "Inflict permanent DEATH MARK when your HEALTH drops below 15/20/25%.",
+    "gold":{
+      "min_atk": "361",
+      "max_atk": "5849",
+      "min_hp": "1323",
+      "max_hp": "21433",
+      "min_fs": "408",
+      "max_fs": "10354"
+    },
+    "diamond":{
+      "min_atk": "650",
+      "max_atk": "12480",
+      "min_hp": "2381",
+      "max_hp": "45716",
+      "min_fs": "733",
+      "max_fs": "22090"
+    }
+  },
+  "buzzkill":{
+    "name": "Buzzkill",
+    "rarity": "gold",
+    "element": "air",
+    "character": "<:sp_pw:698904045389348914> Painwheel",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/pw/bKill.png",
+    "ability": "HEMORRAGE",
+    "SA1": "10% chance on HIT to inflict HEAVY BLEED for 5/7/10 seconds.",
+    "SA2": "Gain permanent ENRAGE when an opponent's HEALTH drops below 15/20/25%.",
+    "gold":{
+      "min_atk": "415",
+      "max_atk": "6723",
+      "min_hp": "1191",
+      "max_hp": "19295",
+      "min_fs": "430",
+      "max_fs": "10923"
+    },
+    "diamond":{
+      "min_atk": "747",
+      "max_atk": "14343",
+      "min_hp": "2144",
+      "max_hp": "41165",
+      "min_fs": "774",
+      "max_fs": "23304"
+    }
+  },
+  "firefly":{
+    "name": "Firefly",
+    "rarity": "gold",
+    "element": "fire",
+    "character": "<:sp_pw:698904045389348914> Painwheel",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/pw/fFly.png",
+    "ability": "SERENITY",
+    "SA1": "When blocking while below 50% HEALTH, gain 5/6/8% HEALTH per second.",
+    "SA2": "Signature Ability 2 Also gain 5/6/8% BLOCKBUSTER METER per second.",
+    "gold":{
+      "min_atk": "307",
+      "max_atk": "4974",
+      "min_hp": "1455",
+      "max_hp": "23571",
+      "min_fs": "385",
+      "max_fs": "9784"
+    },
+    "diamond":{
+      "min_atk": "553",
+      "max_atk": "10618",
+      "min_hp": "2619",
+      "max_hp": "50285",
+      "min_fs": "693",
+      "max_fs": "20880"
+    }
+  },
+  "grimfan":{
+    "name": "Grim Fan",
+    "rarity": "gold",
+    "element": "light",
+    "character": "<:sp_pw:698904045389348914> Painwheel",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/pw/gFan.png",
+    "ability": "SKELETON DANCE",
+    "SA1": "Once per match, gain UNFLINCHING and IMMUNITY for 15 seconds when dropping below 25/35/50% HEALTH.",
+    "SA2": "When Painwheel's UNFLINCHING expires, RESURRECT teammates with 20/25/30% HEALTH.",
+    "gold":{
+      "min_atk": "361",
+      "max_atk": "5849",
+      "min_hp": "1323",
+      "max_hp": "21433",
+      "min_fs": "408",
+      "max_fs": "10354"
+    },
+    "diamond":{
+      "min_atk": "650",
+      "max_atk": "12480",
+      "min_hp": "2381",
+      "max_hp": "45716",
+      "min_fs": "733",
+      "max_fs": "22090"
+    }
+  },
+  "flytrap":{
+    "name": "Fly Trap",
+    "rarity": "diamond",
+    "element": "air",
+    "character": "<:sp_pw:698904045389348914> Painwheel",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/pw/fTrap.png",
+    "ability": "LITTLE PROP OF HORROR",
+    "SA1": "Deal 15/20/25% bonus damage for each defeated Fighter, teammate or opponent.",
+    "SA2": "Gain 3/4/5 stacks of REGEN after defeating an opponent.",
+    "diamond":{
+      "min_atk": "872",
+      "max_atk": "16743",
+      "min_hp": "2501",
+      "max_hp": "48020",
+      "min_fs": "903",
+      "max_fs": "27197"
+    }
+  },
+  "neuromancer":{
+    "name": "Neuromancer",
+    "rarity": "diamond",
+    "element": "dark",
+    "character": "<:sp_pw:698904045389348914> Painwheel",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/pw/nMance.png",
+    "ability": "PSYCHE OUT",
+    "SA1": "Drain 5/7/10% BLOCKBUSTER METER for each non-BLOCKBUSTER HIT blocked by the opponent.",
+    "SA2": "10/12/15% of damage dealt from a BLOCKBUSTER is also suffered by the opponent's teammates.",
+    "diamond":{
+      "min_atk": "758",
+      "max_atk": "14554",
+      "min_hp": "2778",
+      "max_hp": "53338",
+      "min_fs": "855",
+      "max_fs": "25765"
+    }
+  },
+  "stagefright":{
+    "name": "Stage Fright",
+    "rarity": "bronze",
+    "element": "dark",
+    "character": "<:sp_sq:698909665077231776> Squigly",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/sq/sFright.png",
+    "ability": "MEMENTO MORI",
+    "SA1": "While facing Squigly, the opponent is afflicted with CURSE and HEX for 10/12/15 seconds when dropping below 25% HEALTH.",
+    "SA2": "Inflict a 30/25/20 second DOOM when defeated with a BLOCKBUSTER.",
+    "bronze":{
+      "min_atk": "58",
+      "max_atk": "592",
+      "min_hp": "450",
+      "max_hp": "4590",
+      "min_fs": "94",
+      "max_fs": "1492"
+    },
+    "silver":{
+      "min_atk": "104",
+      "max_atk": "1373",
+      "min_hp": "810",
+      "max_hp": "10692",
+      "min_fs": "168",
+      "max_fs": "3468"
+    },
+    "gold":{
+      "min_atk": "188",
+      "max_atk": "3046",
+      "min_hp": "1458",
+      "max_hp": "23620",
+      "min_fs": "302",
+      "max_fs": "7674"
+    },
+    "diamond":{
+      "min_atk": "338",
+      "max_atk": "6490",
+      "min_hp": "2624",
+      "max_hp": "50381",
+      "min_fs": "543",
+      "max_fs": "16361"
+    }
+  },
+  "scaredstiff":{
+    "name": "Scared Stiff",
+    "rarity": "bronze",
+    "element": "light",
+    "character": "<:sp_sq:698909665077231776> Squigly",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/sq/sStiff.png",
+    "ability": "RIGOR MORTIS",
+    "SA1": "Gain UNFLINCHING for 5/7/10 seconds every 30 seconds.",
+    "SA2": "Cannot suffer more than 15/10/5% HEALTH from a single HIT.",
+    "bronze":{
+      "min_atk": "54",
+      "max_atk": "551",
+      "min_hp": "545",
+      "max_hp": "5559",
+      "min_fs": "102",
+      "max_fs": "1624"
+    },
+    "silver":{
+      "min_atk": "97",
+      "max_atk": "1281",
+      "min_hp": "981",
+      "max_hp": "12950",
+      "min_fs": "183",
+      "max_fs": "3780"
+    },
+    "gold":{
+      "min_atk": "175",
+      "max_atk": "2835",
+      "min_hp": "1766",
+      "max_hp": "28610",
+      "min_fs": "329",
+      "max_fs": "8357"
+    },
+    "diamond":{
+      "min_atk": "315",
+      "max_atk": "6048",
+      "min_hp": "3179",
+      "max_hp": "61037",
+      "min_fs": "592",
+      "max_fs": "17827"
+    }
+  },
+  "nearlydeparted":{
+    "name": "Nearly Departed",
+    "rarity": "silver",
+    "element": "light",
+    "character": "<:sp_sq:698909665077231776> Squigly",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/sq/nDepart.png",
+    "ability": "ABRACADAVER",
+    "SA1": "When using a BLOCKBUSTER with an ODD COMBO COUNT, gain INVINCIBILITY for 5/6/8 seconds.",
+    "SA2": "If below 50% HEALTH, also RESURRECT teammates with 15/20/25% HEALTH.",
+    "silver":{
+      "min_atk": "122",
+      "max_atk": "1611",
+      "min_hp": "945",
+      "max_hp": "12474",
+      "min_fs": "196",
+      "max_fs": "4056"
+    },
+    "gold":{
+      "min_atk": "220",
+      "max_atk": "3564",
+      "min_hp": "1701",
+      "max_hp": "27557",
+      "min_fs": "353",
+      "max_fs": "8965"
+    },
+    "diamond":{
+      "min_atk": "396",
+      "max_atk": "7604",
+      "min_hp": "3062",
+      "max_hp": "58781",
+      "min_fs": "635",
+      "max_fs": "19126"
+    }
+  },
+  "deadheat":{
+    "name": "Dead Heat",
+    "rarity": "silver",
+    "element": "fire",
+    "character": "<:sp_sq:698909665077231776> Squigly",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/sq/dHeat.png",
+    "ability": "IMMOLATION",
+    "SA1": "BLOCKBUSTERS and SPECIAL MOVES become UNBLOCKABLE while below 15/20/25% HEALTH.",
+    "SA2": "If your opponent has a fully charged BLOCKBUSTER and you do not, gain 1/2/3% BLOCKBUSTER METER per second.",
+    "silver":{
+      "min_atk": "140",
+      "max_atk": "1848",
+      "min_hp": "851",
+      "max_hp": "11234",
+      "min_fs": "198",
+      "max_fs": "4089"
+    },
+    "gold":{
+      "min_atk": "252",
+      "max_atk": "4083",
+      "min_hp": "1532",
+      "max_hp": "24819",
+      "min_fs": "356",
+      "max_fs": "9034"
+    },
+    "diamond":{
+      "min_atk": "454",
+      "max_atk": "8717",
+      "min_hp": "2758",
+      "max_hp": "52954",
+      "min_fs": "640",
+      "max_fs": "19280"
+    }
+  },
+  "necrobreaker":{
+    "name": "Necrobreaker",
+    "rarity": "silver",
+    "element": "light",
+    "character": "<:sp_sq:698909665077231776> Squigly",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/sq/necroB.png",
+    "ability": "MAGIC PIXEL",
+    "SA1": "Once per match when suffering a HIT that would be fatal, gain FINAL STAND for 5/7/10 seconds.",
+    "SA2": "Gain 5/6/8% HEALTH per second while charging WYRM'S TAIL.",
+    "silver":{
+      "min_atk": "104",
+      "max_atk": "1373",
+      "min_hp": "1040",
+      "max_hp": "13728",
+      "min_fs": "195",
+      "max_fs": "4024"
+    },
+    "gold":{
+      "min_atk": "187",
+      "max_atk": "3030",
+      "min_hp": "1872",
+      "max_hp": "30327",
+      "min_fs": "350",
+      "max_fs": "8885"
+    },
+    "diamond":{
+      "min_atk": "337",
+      "max_atk": "6471",
+      "min_hp": "3370",
+      "max_hp": "64704",
+      "min_fs": "630",
+      "max_fs": "18964"
+    }
+  },
+  "poltergust":{
+    "name": "Poltergust",
+    "rarity": "gold",
+    "element": "air",
+    "character": "<:sp_sq:698909665077231776> Squigly",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/sq/polter.png",
+    "ability": "ECTOPLASM",
+    "SA1": "BLOCKBUSTERS deal 50/75/100% bonus damage to opponents with a fully charged BLOCKBUSTER.",
+    "SA2": "When a BUFF on Squigly or the opponent expires, gain 15/20/25% METER for all BLOCKBUSTERS.",
+    "gold":{
+      "min_atk": "294",
+      "max_atk": "4763",
+      "min_hp": "1787",
+      "max_hp": "28950",
+      "min_fs": "415",
+      "max_fs": "10538"
+    },
+    "diamond":{
+      "min_atk": "529",
+      "max_atk": "10157",
+      "min_hp": "3217",
+      "max_hp": "61767",
+      "min_fs": "746",
+      "max_fs": "22477"
+    }
+  },
+  "deadofwinter":{
+    "name": "Dead of Winter",
+    "rarity": "gold",
+    "element": "water",
+    "character": "<:sp_sq:698909665077231776> Squigly",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/sq/dOWinter.png",
+    "ability": "WIGHTOUT",
+    "SA1": "RESURRECT with 25% HEALTH and 5 stacks of ARMOR after being dead for 60/45/30 seconds. A stack of ARMOR is removed after every HIT suffered.",
+    "SA2": "Deal 50/75/100% bonus damage while benefitting from ARMOR.",
+    "gold":{
+      "min_atk": "218",
+      "max_atk": "3532",
+      "min_hp": "2184",
+      "max_hp": "35381",
+      "min_fs": "408",
+      "max_fs": "10363"
+    },
+    "diamond":{
+      "min_atk": "392",
+      "max_atk": "7527",
+      "min_hp": "3931",
+      "max_hp": "75476",
+      "min_fs": "734",
+      "max_fs": "22097"
+    }
+  },
+  "bioexorcist":{
+    "name": "Bio-Exorcist",
+    "rarity": "gold",
+    "element": "dark",
+    "character": "<:sp_sq:698909665077231776> Squigly",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/sq/bExor.png",
+    "ability": "EXISTENTIAL DECAY",
+    "SA1": "With at least 1 DRAGON CHARGE and not BLOCKING, DRAIN 1/1.5/2% of a nearby opponent's HEALTH per second.",
+    "SA2": "While CHARGED, DRAIN 15/20/25% HEALTH from each living teammate when suffering a HIT that would be fatal.",
+    "gold":{
+      "min_atk": "256",
+      "max_atk": "4148",
+      "min_hp": "1985",
+      "max_hp": "32157",
+      "min_fs": "411",
+      "max_fs": "10449"
+    },
+    "diamond":{
+      "min_atk": "461",
+      "max_atk": "8852",
+      "min_hp": "3573",
+      "max_hp": "68602",
+      "min_fs": "740",
+      "max_fs": "22294"
+    }
+  },
+  "thrillshrieker":{
+    "name": "Thrill Shrieker",
+    "rarity": "gold",
+    "element": "fire",
+    "character": "<:sp_sq:698909665077231776> Squigly",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/sq/shriek.png",
+    "ability": "DANCE MACABRE",
+    "SA1": "50/75/100% chance to gain ENRAGE when gaining a DRAGON CHARGE. Each ENRAGE is removed when a charge is spent.",
+    "SA2": "The opponent suffers damage equal to 25/35/50% of their current HEALTH when tagging out while Squigly has ENRAGE.",
+    "gold":{
+      "min_atk": "294",
+      "max_atk": "4763",
+      "min_hp": "1787",
+      "max_hp": "28950",
+      "min_fs": "415",
+      "max_fs": "10538"
+    },
+    "diamond":{
+      "min_atk": "529",
+      "max_atk": "10157",
+      "min_hp": "3217",
+      "max_hp": "61767",
+      "min_fs": "746",
+      "max_fs": "22477"
+    }
+  },
+  "lovecrafted":{
+    "name": "Love Crafted",
+    "rarity": "diamond",
+    "element": "dark",
+    "character": "<:sp_sq:698909665077231776> Squigly",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/sq/loveCraft.png",
+    "ability": "TEN TICKLES",
+    "SA1": "While near an opponent, DISABLE BLOCKBUSTERS and inflict HEAL BLOCK after 3/2/1 second(s).",
+    "SA2": "Every 10th COMBO HIT will land as a CRITICAL HIT, and will inflict DEATH MARK and HEAVY BLEED for 10/12/15 seconds.",
+    "diamond":{
+      "min_atk": "617",
+      "max_atk": "11847",
+      "min_hp": "3753",
+      "max_hp": "72058",
+      "min_fs": "870",
+      "max_fs": "26219"
+    }
+  },
+  "plottwisted":{
+    "name": "Plot Twisted",
+    "rarity": "diamond",
+    "element": "water",
+    "character": "<:sp_sq:698909665077231776> Squigly",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/sq/pTwist.png",
+    "ability": "MADNESS RETURNS",
+    "SA1": "Once per match, RESURRECT with 25/35/50% HEALTH. Also gain 5 random DEBUFFS for 10 seconds and 5 stacks of THORNS for 20 seconds.",
+    "SA2": "Deal 25/35/50% bonus damage for each active DEBUFF stack applied to Squigly.",
+    "diamond":{
+      "min_atk": "538",
+      "max_atk": "10330",
+      "min_hp": "4169",
+      "max_hp": "80045",
+      "min_fs": "863",
+      "max_fs": "26015"
+    }
+  },
+  "prototype":{
+    "name": "Prototype",
+    "rarity": "bronze",
+    "element": "air",
+    "character": "<:sp_rf:698919676612313168> Robo Fortune",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/rf/pType.png",
+    "ability": "SYSTEM SHOCK",
+    "SA1": "BLOCKBUSTER HITS have a 15/20/25% chance to inflict POWER SURGE for 10 seconds.",
+    "SA2": "When using a BLOCKBUSTER, gain 15/20/25% meter for all BLOCKBUSTERS.",
+    "bronze":{
+      "min_atk": "74",
+      "max_atk": "755",
+      "min_hp": "350",
+      "max_hp": "3570",
+      "min_fs": "93",
+      "max_fs": "1484"
+    },
+    "silver":{
+      "min_atk": "133",
+      "max_atk": "1756",
+      "min_hp": "630",
+      "max_hp": "8316",
+      "min_fs": "167",
+      "max_fs": "3454"
+    },
+    "gold":{
+      "min_atk": "240",
+      "max_atk": "3888",
+      "min_hp": "1134",
+      "max_hp": "18371",
+      "min_fs": "301",
+      "max_fs": "7638"
+    },
+    "diamond":{
+      "min_atk": "432",
+      "max_atk": "8295",
+      "min_hp": "2041",
+      "max_hp": "39188",
+      "min_fs": "541",
+      "max_fs": "16295"
+    }
+  },
+  "m3ow":{
+    "name": "M-3OW",
+    "rarity": "bronze",
+    "element": "light",
+    "character": "<:sp_rf:698919676612313168> Robo Fortune",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/rf/m3ow.png",
+    "ability": "FAR FAR AWAY",
+    "SA1": "HEADRONES deal 50/75/100% bonus damage while Robo-Fortune is far away from the oponent.",
+    "SA2": "Gain INVINCIBLE for 3/4/5 seconds when HIT while far away from the opponent.",
+    "bronze":{
+      "min_atk": "64",
+      "max_atk": "653",
+      "min_hp": "495",
+      "max_hp": "5049",
+      "min_fs": "103",
+      "max_fs": "1643"
+    },
+    "silver":{
+      "min_atk": "115",
+      "max_atk": "1518",
+      "min_hp": "891",
+      "max_hp": "11762",
+      "min_fs": "185",
+      "max_fs": "3823"
+    },
+    "gold":{
+      "min_atk": "207",
+      "max_atk": "3354",
+      "min_hp": "1604",
+      "max_hp": "25985",
+      "min_fs": "333",
+      "max_fs": "8446"
+    },
+    "diamond":{
+      "min_atk": "373",
+      "max_atk": "7162",
+      "min_hp": "2887",
+      "max_hp": "55431",
+      "min_fs": "598",
+      "max_fs": "18025"
+    }
+  },
+  "nyanotech":{
+    "name": "Nyanotech",
+    "rarity": "silver",
+    "element": "fire",
+    "character": "<:sp_rf:698919676612313168> Robo Fortune",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/rf/nyan.png",
+    "ability": "FIRE WALL",
+    "SA1": "Gain BARRIER for 5/7/10 seconds when launching a HEADRONE.",
+    "SA2": "While benefitting from BARRIER, gain a 50/75/100% chance when suffering a DEBUFF to immediately convert that DEBUFF to ENRAGE.",
+    "silver":{
+      "min_atk": "118",
+      "max_atk": "1558",
+      "min_hp": "924",
+      "max_hp": "12197",
+      "min_fs": "191",
+      "max_fs": "3947"
+    },
+    "gold":{
+      "min_atk": "212",
+      "max_atk": "3453",
+      "min_hp": "1663",
+      "max_hp": "26921",
+      "min_fs": "343",
+      "max_fs": "8710"
+    },
+    "diamond":{
+      "min_atk": "382",
+      "max_atk": "7335",
+      "min_hp": "2994",
+      "max_hp": "57485",
+      "min_fs": "617",
+      "max_fs": "18591"
+    }
+  },
+  "purrminator":{
+    "name": "Purrminator",
+    "rarity": "silver",
+    "element": "dark",
+    "character": "<:sp_rf:698919676612313168> Robo Fortune",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/rf/purr.png",
+    "ability": "MACHINE LEARNING",
+    "SA1": "10/12/15% chance to gain 1 stack of PRECISION and inflict DEATH MARK for 10 seconds when the opponent BLOCKS a HIT.",
+    "SA2": "Each CRITICAL HIT permanently increases DAMAGE by 1/2/3%.",
+    "silver":{
+      "min_atk": "160",
+      "max_atk": "2112",
+      "min_hp": "756",
+      "max_hp": "9980",
+      "min_fs": "201",
+      "max_fs": "4150"
+    },
+    "gold":{
+      "min_atk": "288",
+      "max_atk": "4666",
+      "min_hp": "1361",
+      "max_hp": "22049",
+      "min_fs": "361",
+      "max_fs": "9167"
+    },
+    "diamond":{
+      "min_atk": "518",
+      "max_atk": "9946",
+      "min_hp": "2449",
+      "max_hp": "47021",
+      "min_fs": "649",
+      "max_fs": "19544"
+    }
+  },
+  "bluebomber":{
+    "name": "Blue Bomber",
+    "rarity": "silver",
+    "element": "water",
+    "character": "<:sp_rf:698919676612313168> Robo Fortune",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/rf/bBomb.png",
+    "ability": "MEGA BUSTER",
+    "SA1": "All BEAM and ENERGY attacks have a 25% chance on HIT to inflict ARMOR BREAK for 3/4/5 seconds.",
+    "SA2": "Gain 3/4/5 stack(s) of BARRIER when using a LEVEL 3 BLOCKBUSTER.",
+    "silver":{
+      "min_atk": "132",
+      "max_atk": "1743",
+      "min_hp": "809",
+      "max_hp": "10679",
+      "min_fs": "187",
+      "max_fs": "3872"
+    },
+    "gold":{
+      "min_atk": "238",
+      "max_atk": "3856",
+      "min_hp": "1456",
+      "max_hp": "23588",
+      "min_fs": "337",
+      "max_fs": "8559"
+    },
+    "diamond":{
+      "min_atk": "428",
+      "max_atk": "8218",
+      "min_hp": "2621",
+      "max_hp": "50324",
+      "min_fs": "606",
+      "max_fs": "18250"
+    }
+  },
+  "terrorbyte":{
+    "name": "Terror Byte",
+    "rarity": "gold",
+    "element": "dark",
+    "character": "<:sp_rf:698919676612313168> Robo Fortune",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/rf/tByte.png",
+    "ability": "MALWARE",
+    "SA1": "Inflict SLOW and POWER SURGE for 5/7/10 seconds after every 5 seconds not suffering a hit (includes blocked hits).",
+    "SA2": "HEADRONE HITS inflict INVERSE POLARITY for 5/7/10 seconds, reversing the effects of all healing.",
+    "gold":{
+      "min_atk": "292",
+      "max_atk": "4731",
+      "min_hp": "1764",
+      "max_hp": "28577",
+      "min_fs": "411",
+      "max_fs": "10434"
+    },
+    "diamond":{
+      "min_atk": "526",
+      "max_atk": "10100",
+      "min_hp": "3175",
+      "max_hp": "60960",
+      "min_fs": "739",
+      "max_fs": "22266"
+    }
+  },
+  "bluescreen":{
+    "name": "Blue Screen",
+    "rarity": "gold",
+    "element": "water",
+    "character": "<:sp_rf:698919676612313168> Robo Fortune",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/rf/blueS.png",
+    "ability": "FATAL SYSTEM ERROR",
+    "SA1": "Gain a stack of armor every 10/7/5 seconds. Armor is removed when KNOCKED DOWN.",
+    "SA2": "On DEATH, instantly detonate and inflict 25/35/50% bonus damage for each stack of armor applied to Robo Fortune.",
+    "gold":{
+      "min_atk": "218",
+      "max_atk": "3532",
+      "min_hp": "2184",
+      "max_hp": "35381",
+      "min_fs": "408",
+      "max_fs": "10363"
+    },
+    "diamond":{
+      "min_atk": "392",
+      "max_atk": "7527",
+      "min_hp": "3931",
+      "max_hp": "75476",
+      "min_fs": "734",
+      "max_fs": "22097"
+    }
+  },
+  "headhunter":{
+    "name": "Head Hunter",
+    "rarity": "gold",
+    "element": "fire",
+    "character": "<:sp_rf:698919676612313168> Robo Fortune",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/rf/metro.png",
+    "ability": "ZERO LASER",
+    "SA1": "Gain one stack of PRECISION every 1.5/1/0.5 seconds while BLOCKING and not being hit.",
+    "SA2": "With at least three stacks of PRECISION, all BEAM and ENERGY attacks are UNBLOCKABLE and inflict POWER SURGE for 10/12/15 seconds.",
+    "gold":{
+      "min_atk": "375",
+      "max_atk": "6075",
+      "min_hp": "1390",
+      "max_hp": "22518",
+      "min_fs": "425",
+      "max_fs": "10801"
+    },
+    "diamond":{
+      "min_atk": "675",
+      "max_atk": "12960",
+      "min_hp": "2502",
+      "max_hp": "48039",
+      "min_fs": "765",
+      "max_fs": "23043"
+    }
+  },
+  "personaassistant":{
+    "name": "Persona Assistant",
+    "rarity": "gold",
+    "element": "light",
+    "character": "<:sp_rf:698919676612313168> Robo Fortune",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/rf/pAssist.png",
+    "ability": "LOVE HERTZ",
+    "SA1": "Every 30 seconds while Robo-Fortune is alive, she gains 3/4/5 stacks of PRECISION and 3/4/5 stacks of ENRAGE for 5 seconds. Her teammates also gain 1 stack of BLESSING and BARRIER.",
+    "SA2": "50/75/100% chance for DASH ATTACKS to be UNBLOCKABLE while benefitting from ENRAGE.",
+    "gold":{
+      "min_atk": "294",
+      "max_atk": "4763",
+      "min_hp": "3217",
+      "max_hp": "28950",
+      "min_fs": "746",
+      "max_fs": "10538"
+    },
+    "diamond":{
+      "min_atk": "338",
+      "max_atk": "10157",
+      "min_hp": "2624",
+      "max_hp": "61767",
+      "min_fs": "543",
+      "max_fs": "22477"
+    }
+  },
+  "overclocked":{
+    "name": "Overclocked",
+    "rarity": "diamond",
+    "element": "neutral",
+    "character": "<:sp_rf:698919676612313168> Robo Fortune",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/rf/clock.png",
+    "ability": "BUFFER OVERFLOW",
+    "SA1": "Gain PRECISION and BARRIER after every 5/4/3 seconds not suffering a hit (includes blocked hits).",
+    "SA2": "All attacks are UNBLOCKABLE while at 5/4/3 or more stacks of PRECISION, and 50% of incoming damage is reflected while at 5/4/3 or more stacks of BARRIER.",
+    "diamond":{
+      "min_atk": "613",
+      "max_atk": "11770",
+      "min_hp": "3704",
+      "max_hp": "71117",
+      "min_fs": "862",
+      "max_fs": "25962"
+    }
+  },
+  "xbot":{
+    "name": "X-Bot",
+    "rarity": "diamond",
+    "element": "air",
+    "character": "<:sp_rf:698919676612313168> Robo Fortune",
+    "image": "https://raw.githubusercontent.com/Krazete/sgm/master/image/portrait/rf/xBot.png",
+    "ability": "HEAD SHOT",
+    "SA1": "Gain PRECISION and inflict DEATH MARK after 3/2/1 second(s) while far away from the opponent.",
+    "SA2": "Also gain BARRIER and heal for 3/4/5% HEALTH.",
+    "diamond":{
+      "min_atk": "538",
+      "max_atk": "10330",
+      "min_hp": "4169",
+      "max_hp": "80045",
+      "min_fs": "863",
+      "max_fs": "26015"
+    }
+  }
+}
